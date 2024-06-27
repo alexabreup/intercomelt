@@ -10,7 +10,7 @@ Writing a good guide r equires thinking about what your users are trying to do.
 
 ### O Schedule (Configuração de Brilho)
 
-![Interface de Comandos Eletromidia](/../src/assets/images/schedule.jpeg "Interface de Comandos Eletromidia")
+![Interface de Comandos Eletromidia](/../src/public/images/schedule.jpeg "Interface de Comandos Eletromidia")
 
 
 
