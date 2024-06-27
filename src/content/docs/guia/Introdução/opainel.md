@@ -1,14 +1,16 @@
 ---
 title: O Painel de Comandos
 description: Conheça a interface de comandos Eletromidia
+
 sidebar:
     order: 2
+
 ---
 
 Leia atentamente antes de operar o aplicativo interface de comandos e sempre utilize para futuras consultas.
 
  
-![Interface de Comandos Eletromidia](/../src/public/images/interface-de-comandos.png "Interface de Comandos Eletromidia")
+![Interface de Comandos Eletromidia](/../public/images/interface-de-comandos.png "Interface de Comandos Eletromidia")
 
 O painel de controle está dividido em 5 áreas:
 
