@@ -6,5 +6,3 @@
   for = "/*"
 
 
-/protected/*
-  Basic-Auth: USERNAME:USER_PASSWORD SECOND_USERNAME:SECOND_USER_PASSWORD
