@@ -23,7 +23,7 @@ export default defineConfig({
         src: './src/assets/my-logo.svg',
       },
 			social: {
-				github: 'https://github.com/alexabreup/intercomelt',
+				github: 'https://github.com/',
 			},
 			title: 'Departamento de Hardware/Interface de Comandos',
 			locales: {
