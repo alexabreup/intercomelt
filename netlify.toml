@@ -2,5 +2,8 @@
   command = "npm run build"
   publish = "dist" 
 
+[[headers]]
+  for = "/*"
+  
   /protected/*
   Basic-Auth: USERNAME:hardware SECOND_USERNAME:3l3tr0m1d1@
