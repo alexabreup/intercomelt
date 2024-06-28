@@ -7,6 +7,7 @@ export default defineConfig({
 
 	output: 'server',
 	adapter: netlify(),
+	edgeMiddleware: true,
 
 	site: 'https://alexabreup.github.io',
 	base: 'intercomelt',
