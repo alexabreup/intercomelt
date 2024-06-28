@@ -13,6 +13,7 @@ Writing a good guide r equires thinking about what your users are trying to do.
 ![Interface de Comandos Eletromidia](/intercomelt/images/schedule.jpeg "Interface de Comandos Eletromidia")
 
 ![Interface de Comandos Eletromidia](/intercomelt/images/schedule.jpg)
+![Interface de Comandos Eletromidia](/intercomelt/images/schedule.jpg "Interface de Comandos Eletromidia")
 
  
  

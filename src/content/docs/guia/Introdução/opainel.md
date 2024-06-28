@@ -10,7 +10,8 @@ sidebar:
 Leia atentamente antes de operar o aplicativo interface de comandos e sempre utilize para futuras consultas.
 
 ![Interface de Comandos Eletromidia](/intercomelt/images/interface-de-comandos.png)
- 
+![Interface de Comandos Eletromidia](/intercomelt/images/interface-de-comandos.png "Interface de Comandos Eletromidia")
+
 O painel de controle está dividido em 5 áreas:
 
 1) Configurar Schedule
