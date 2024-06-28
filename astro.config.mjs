@@ -1,8 +1,12 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import netlify from '@astrojs/netlify';
 
 // https://astro.build/config
 export default defineConfig({
+
+	output: 'server',
+	adapter: netlify(),
 
 	site: 'https://alexabreup.github.io',
 	base: 'intercomelt',
@@ -39,6 +43,7 @@ export default defineConfig({
 					autogenerate: { directory: 'referencia' },
 				},
 			],
+			
 		}),
 	],
 
