@@ -9,8 +9,8 @@ export default defineConfig({
 	adapter: netlify(),
 	edgeMiddleware: true,
 
-	site: 'https://alexabreup.github.io',
-	base: 'intercomelt',
+	//site: 'https://alexabreup.github.io',
+	// base: 'intercomelt',
 
 	integrations: [
 		starlight({
