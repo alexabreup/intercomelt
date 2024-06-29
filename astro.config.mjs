@@ -6,11 +6,6 @@ import netlify from '@astrojs/netlify';
 export default defineConfig({
 
 	output: 'server',
-	server: {
-		headers: {
-			"Access-Control-Allow-Origin": "*"
-		}
-	},
 	adapter: netlify(),
 	edgeMiddleware: true,
 
