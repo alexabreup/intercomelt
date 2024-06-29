@@ -11,4 +11,4 @@
  
 [[edge_functions]]
 	path = "/*"
-	function = "headers" # or whatever your file name is
+	function = "headers" 
