@@ -5,12 +5,11 @@ sidebar:
     order: 3
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
-Writing a good guide r equires thinking about what your users are trying to do.
+O Schedule cuida do agendamento dos valores dos brilhos dos displays de acordo com diferentes horarios do dia. Ao todo sao disponibilizadas duas colunas contendo os horarios e valores dos brilhos em porcentagem.
 
 ### O Schedule (Configuração de Brilho)
 
 ![Interface de Comandos Eletromidias](https://intercomelt.netlify.app/assets/images/schedule.jpg) 
 
  
- 
+Uma regua deslizadora permite que os ajustes de brilho sejam selecionados manualmente pelo operador da interface de comando.
