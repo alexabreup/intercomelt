@@ -9,7 +9,7 @@ sidebar:
 
 Leia atentamente antes de operar o aplicativo interface de comandos e sempre utilize para futuras consultas.
 
-![Interface de Comandos Eletromidias](https://intercomelt.netlify.app/assets/images/interface-de-comandos.png)s
+![Interface de Comandos Eletromidias](https://intercomelt.netlify.app/assets/images/interface-de-comandos.png)
  
 O painel de controle está dividido em 5 áreas:
 
