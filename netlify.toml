@@ -9,3 +9,6 @@
     X-Frame-Options = "DENY"
     X-XSS-Protection = "1; mode=block"
  
+[[edge_functions]]
+	path = "/*"
+	function = "headers" # or whatever your file name is
