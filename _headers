@@ -1,9 +1,4 @@
-[[headers]]
-  for = "/*"
-  [headers.values]
-    X-Frame-Options = "DENY"
-    X-XSS-Protection = "1; mode=block"
-
+ 
 
   /protected/*
   Basic-Auth: USERNAME:hardware SECOND_USERNAME:123456
