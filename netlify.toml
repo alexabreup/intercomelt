@@ -11,4 +11,4 @@
  
 [[edge_functions]]
 	path = "/*"
-	function = "headers" 
+	function = "headers" # 
