@@ -1,6 +1,6 @@
 ---
 title: Links
-description: A guide in my new Starlight docs site.
+description: Lista de links para utilização do programa Interface de Comandos Eletromidia
 ---
 
 Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.

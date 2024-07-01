@@ -33,6 +33,10 @@ O controle do brilho permite que seja através da régua de ajuste permite que s
 | Tela 2 |
 | Telas 1 e 2 |
 
+ 
+![Interface de Comandos Eletromidias](https://intercomelt.netlify.app/assets/images/ajuste-brilho-schedule-2.png)
+
+
 Após os ajustes do brilho através da régua deslizadora de porcentagem (slider), os valores configurados aparecem na parte inferior da tela, apresentando:
 
 | Número da Tela | Valores dos Slider | Send Data |

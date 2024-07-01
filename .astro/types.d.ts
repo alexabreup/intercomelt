@@ -199,30 +199,23 @@ declare module 'astro:content' {
   collection: "docs";
   data: any
 } & { render(): Render[".mdx"] };
-"referencia/example.md": {
-	id: "referencia/example.md";
-  slug: "referencia/example";
+"referências/example.md": {
+	id: "referências/example.md";
+  slug: "referências/example";
   body: string;
   collection: "docs";
   data: any
 } & { render(): Render[".md"] };
-"referencia/faleconosco.md": {
-	id: "referencia/faleconosco.md";
-  slug: "referencia/faleconosco";
+"referências/faq.md": {
+	id: "referências/faq.md";
+  slug: "referências/faq";
   body: string;
   collection: "docs";
   data: any
 } & { render(): Render[".md"] };
-"referencia/faq.md": {
-	id: "referencia/faq.md";
-  slug: "referencia/faq";
-  body: string;
-  collection: "docs";
-  data: any
-} & { render(): Render[".md"] };
-"referencia/links.md": {
-	id: "referencia/links.md";
-  slug: "referencia/links";
+"referências/links.md": {
+	id: "referências/links.md";
+  slug: "referências/links";
   body: string;
   collection: "docs";
   data: any
