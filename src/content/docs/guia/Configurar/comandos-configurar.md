@@ -5,13 +5,14 @@ sidebar:
     order: 4
 ---
 
-Leia atentamente antes de operar o aplicativo de controle de MUBs e sempre utilize para futuras consultas.
+Leia atentamente antes de operar o aplicativo de comando e leitura, sempre utilizando para futuras consultas.
+
  
 ## Selecionando o comando de configuracao
 
-Nesse modo, estao disponiveis ao todo 30 comandos de configuracao listados abaixo:
+Nesse modo, estão disponíveis ao todo 30 comandos de configuração listados abaixo:
 
-| Comandos de Configuracao | Funcao | 
+| Comandos de Configuração | Função | 
 |----------|----------|
 | Estado da Tela - Desligar a Tela 1 | Desliga a Tela 1 | 
 | Estado da Tela - Desligar a Tela 2 | Desliga a Tela 2 | 
@@ -46,7 +47,7 @@ Nesse modo, estao disponiveis ao todo 30 comandos de configuracao listados abaix
 | Relay - 5 ON | Rele 5 ligado |
 
 
-No caso ilustrado abaixo, vemos a selecao do comando de configuracao
+No caso ilustrado abaixo, vemos a seleção do comando de configuração
  
 
 ![Interface de Comandos Eletromidia](https://intercomelt.netlify.app/assets/images/comando-config-1.jpg)

@@ -1,17 +1,17 @@
 ---
 title: Comandos de Leitura
-description: Saiba como ler os codigos
+description: Saiba como ler os códigos dos dispositivos
 sidebar:
     order: 5
 ---
 
-Leia atentamente antes de operar o aplicativo de controle de MUBs e sempre utilize para futuras consultas.
+Leia atentamente antes de operar o aplicativo de comando e leitura, sempre utilizando para futuras consultas.
  
 ## Selecionando o comando de leitura
 
-Nesse modo, estao disponiveis ao todo 15 comandos de leitura listados abaixo:
+Nesse modo, estao disponíveis ao todo 15 comandos de leitura listados abaixo:
 
-| Comandos de Leitura | Funcao | 
+| Comandos de Leitura | Função | 
 |----------|----------|
 | Estado da Tela - Tela 1 | Informa o estado da Tela 1 | 
 | Estado da Tela - Tela 2 | Informa o estado das Tela 2 | 
@@ -30,7 +30,7 @@ Nesse modo, estao disponiveis ao todo 15 comandos de leitura listados abaixo:
 | Backlight - Tela 2 | Informa o status do backlight na Tela 2 |
 | Backlight - Telas 1 e 2 | Informa o status do backlight nas Telas 1 e 2 |
 
-No caso ilustrado abaixo, vemos a selecao do comando de configuracao
+No caso ilustrado abaixo, vemos a seleção do comando de configuração.
  
 
 ![Interface de Comandos Eletromidia](https://intercomelt.netlify.app/assets/images/comando-config-1.jpg)

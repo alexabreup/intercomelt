@@ -1,16 +1,19 @@
 ---
-title: Endereço de  IP
-description: Aprenda como criar um calendário de controle
+title: Endereço de IP e Porta de Acesso
+description: A aplição o número de IP 
 sidebar:
     order: 5
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
-Writing a good guide r equires thinking about what your users are trying to do.
+### Endereço de IP 
+A aplicação do número de IP é um ponto importante para conseguir acessar a rede que controla os equipamentos. 
 
-### O Schedule (Configuração de Brilho)
+Verifique o número do IP do dispositivo a ser examinado e ajustado. Também verifique a porta de acesso.
 
-![Interface de Comandos Eletromidia](/intercomelt/images/images/schedule.jpeg "Interface de Comandos Eletromidia")
+### Porta de Acesso
+A porta de acesso é o endereço que permite acessar a rede. Certifiquesse que o número da porta está correta para evitar o bloqueio do acesso.
+
+Qualquer dúvida sobre o número de IP e porta serial, entre em contato com o seu gestor para solucionar quaisquer questionamento.
 
 
 
