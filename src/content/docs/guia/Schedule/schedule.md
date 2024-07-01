@@ -9,7 +9,7 @@ O Schedule cuida do agendamento dos valores dos brilhos dos displays de acordo c
 
 ### O Schedule (Configuração de Brilho)
 
-![Interface de Comandos Eletromidias](https://intercomelt.netlify.app/assets/images/schedule.jpg) 
+![Interface de Comandos Eletromidia](https://intercomelt.netlify.app/assets/images/schedule.jpg) 
 
  
 Uma regua deslizadora permite que os ajustes de brilho sejam selecionados manualmente pelo operador da interface de comando.
