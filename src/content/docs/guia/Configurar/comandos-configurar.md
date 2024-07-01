@@ -49,4 +49,5 @@ Nesse modo, estao disponiveis ao todo 30 comandos de configuracao listados abaix
 No caso ilustrado abaixo, vemos a selecao do comando de configuracao
  
 
-![Interface de Comandos Eletromidias](https://intercomelt.netlify.app/assets/images/comando-config-1.jpg)
+![Interface de Comandos Eletromidia](https://intercomelt.netlify.app/assets/images/comando-config-1.jpg)
+
