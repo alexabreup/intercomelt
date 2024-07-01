@@ -11,7 +11,7 @@ Leia atentamente antes de operar o aplicativo de controle de MUBs e sempre utili
 
 Nesse modo, estao disponiveis ao todo 15 comandos de leitura listados abaixo:
 
-| Comandos de Configuracao | Funcao | 
+| Comandos de Leitura | Funcao | 
 |----------|----------|
 | Estado da Tela - Tela 1 | Informa o estado da Tela 1 | 
 | Estado da Tela - Tela 2 | Informa o estado das Tela 2 | 
