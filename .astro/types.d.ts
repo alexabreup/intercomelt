@@ -192,13 +192,6 @@ declare module 'astro:content' {
   collection: "docs";
   data: any
 } & { render(): Render[".md"] };
-"guia/conectar.md": {
-	id: "guia/conectar.md";
-  slug: "guia/conectar";
-  body: string;
-  collection: "docs";
-  data: any
-} & { render(): Render[".md"] };
 "index.mdx": {
 	id: "index.mdx";
   slug: "index";
