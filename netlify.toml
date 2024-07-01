@@ -4,9 +4,4 @@
 
 [[headers]]
   for = "/*"
-
-[context.production]
-  command = "make production"
-[context.branch-deploy]
-  command = "make deploy_preview"
-
+ 
