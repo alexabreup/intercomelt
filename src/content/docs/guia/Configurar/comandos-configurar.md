@@ -33,7 +33,7 @@ Nesse modo, estão disponíveis ao todo 30 comandos de configuração listados a
 | Backlight - Tela 1 | Seleciona o backlight na tela 1 |  
 | Backlight - Tela 2 | Seleciona o backlight na tela 2 |  
 | Backlight - Telas 1 e 2 | Seleciona o backlight nas telas 1 e 2 |
-| Relay - 0 OFF | Rele 0 desligado |
+| Relay - 0 OFF | Rele 0 configurar-rede-wifi.jpegdesligado |
 | Relay - 1 OFF | Rele 1 desligado |
 | Relay - 2 OFF | Rele 2 desligado |
 | Relay - 3 OFF | Rele 3 desligado | 
@@ -44,7 +44,7 @@ Nesse modo, estão disponíveis ao todo 30 comandos de configuração listados a
 | Relay - 2 ON | Rele 2 ligado |
 | Relay - 3 ON | Rele 3 ligado | 
 | Relay - 4 ON | Rele 4 ligado |
-| Relay - 5 ON | Rele 5 ligado |
+| Relay - 5 ON | Rele 5 lconfigurar-rede-wifi.jpegigado |
 
 
 No caso ilustrado abaixo, vemos a seleção do comando de configuração
