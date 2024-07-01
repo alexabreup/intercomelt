@@ -22,7 +22,7 @@ Conheça mais sobre os endereços de IP e suas portas seriais.
 ### Configuração do Serial Port:
 
 1. **Definição do Protocolo Serial:**
-   - O protocolo serial (como RS-232 ou RS-485) deve ser configurado nos dispositivos para garantir a comunicação serial adequada entre o dispositivo de controle e os displays. Isso inclui a taxa de transmissão (baud rate), bits de dados, bits de parada e controle de fluxo, se aplicável.
+   - O protocolo serial (RS-485) deve ser configurado nos dispositivos para garantir a comunicação serial adequada entre o dispositivo de controle e os displays. Isso inclui a taxa de transmissão (baud rate), bits de dados, bits de parada e controle de fluxo, se aplicável.
 
 2. **Cabos e Conexões:**
    - Utilize cabos adequados e conectores para garantir uma conexão física robusta entre o dispositivo de controle e os displays. Certifique-se de que os pinos estão corretamente alinhados e que não há interrupções na transmissão de dados.
