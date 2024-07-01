@@ -1,6 +1,6 @@
 ---
-title: Comandos de Configuração 
-description: Saiba como configurar
+title: Comandos de Leitura
+description: Saiba como ler os codigos
 sidebar:
     order: 5
 ---
