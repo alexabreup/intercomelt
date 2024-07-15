@@ -3,6 +3,11 @@ title: Configure o Schedule
 description: Como ajustar os horários e porcentagem de brilho
 ---
 
+[comment]: <> (Documentação online para o aplicativo Interface de Comando Eletromidia)
+[comment]: <> (Criado por Alexandre de Abreu - alexandre.abreu@eletromidia.com.br)
+[comment]: <> (Data : 17/06/2024)
+
+
 A funcionalidade Schedule permite que seja possível ajustar horários específicos para a modificação da porcentagem do brilho dos displays. 
 
 ![Interface de Comandos Eletromidia](https://intercomelt.netlify.app/assets/images/schedule.jpg) 
@@ -34,7 +39,7 @@ O controle do brilho permite que seja através da régua de ajuste permite que s
 | Telas 1 e 2 |
 
  
-![Interface de Comandos Eletromidias](https://intercomelt.netlify.app/assets/images/ajuste-brilho-schedule-2.png)
+![Interface de Comandos Eletromidia](https://intercomelt.netlify.app/assets/images/ajuste-brilho-schedule-2.png)
 
 
 Após os ajustes do brilho através da régua deslizadora de porcentagem (slider), os valores configurados aparecem na parte inferior da tela, apresentando:

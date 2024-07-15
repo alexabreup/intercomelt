@@ -3,13 +3,17 @@ title: O Painel de Comandos
 description: Conheça a interface de comandos Eletromidia
 
 sidebar:
-    order: 2
+    order: 3
  
 ---
 
+[comment]: <> (Documentação online para o aplicativo Interface de Comando Eletromidia)
+[comment]: <> (Criado por Alexandre de Abreu - alexandre.abreu@eletromidia.com.br)
+[comment]: <> (Data : 17/06/2024)
+
 Leia atentamente antes de operar o aplicativo interface de comandos e sempre utilize para futuras consultas.
 
-![Interface de Comandos Eletromidias](https://intercomelt.netlify.app/assets/images/interface-de-comandos.png)
+![Interface de Comandos Eletromidia](https://intercomelt.netlify.app/assets/images/interface-de-comandos.png)
  
 O painel de controle está dividido em 5 áreas:
 

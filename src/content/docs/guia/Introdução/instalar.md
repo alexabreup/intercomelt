@@ -4,6 +4,9 @@ description: Como instalar o programa Interface de Comandos Eletromidia
 sidebar:
     order: 1
 ---
+[comment]: <> (Documentação online para o aplicativo Interface de Comando Eletromidia)
+[comment]: <> (Criado por Alexandre de Abreu - alexandre.abreu@eletromidia.com.br)
+[comment]: <> (Data : 17/06/2024)
 
 A primeira versão do programa Interface de Comandos Eletromidia está disponível no formato .exe, para Windows 10 e 11. Ele pode ser baixado através do [link](#).
 

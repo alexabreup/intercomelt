@@ -141,84 +141,84 @@ declare module 'astro:content' {
   slug: "404";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "guia/Configurar/comandos-configurar.md": {
 	id: "guia/Configurar/comandos-configurar.md";
   slug: "guia/configurar/comandos-configurar";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "guia/Configurar/comandos-leitura.md": {
 	id: "guia/Configurar/comandos-leitura.md";
   slug: "guia/configurar/comandos-leitura";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "guia/Controle dos Relés/reles.md": {
 	id: "guia/Controle dos Relés/reles.md";
   slug: "guia/controle-dos-relés/reles";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "guia/Endereços/endereco-ip.md": {
 	id: "guia/Endereços/endereco-ip.md";
   slug: "guia/endereços/endereco-ip";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "guia/Introdução/instalar.md": {
 	id: "guia/Introdução/instalar.md";
   slug: "guia/introdução/instalar";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "guia/Introdução/opainel.md": {
 	id: "guia/Introdução/opainel.md";
   slug: "guia/introdução/opainel";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "guia/Schedule/confure-o-schedule.md": {
 	id: "guia/Schedule/confure-o-schedule.md";
   slug: "guia/schedule/confure-o-schedule";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "index.mdx": {
 	id: "index.mdx";
   slug: "index";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".mdx"] };
 "referências/example.md": {
 	id: "referências/example.md";
   slug: "referências/example";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "referências/faq.md": {
 	id: "referências/faq.md";
   slug: "referências/faq";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "referências/links.md": {
 	id: "referências/links.md";
   slug: "referências/links";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 };
 
@@ -230,5 +230,5 @@ declare module 'astro:content' {
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;
 
-	export type ContentConfig = never;
+	export type ContentConfig = typeof import("../src/content/config.js");
 }

@@ -5,8 +5,7 @@ sidebar:
     order: 4
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
-Writing a good guide r equires thinking about what your users are trying to do.
+Os relés são responsáveis pelos acionamentos dos dispositivos, através dos sinais 
 
 ### O Schedule (Configuração de Brilho)
 

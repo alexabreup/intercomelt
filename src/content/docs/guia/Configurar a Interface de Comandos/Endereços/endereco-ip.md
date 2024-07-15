@@ -5,6 +5,11 @@ sidebar:
     order: 5
 ---
 
+[comment]: <> (Documentação online para o aplicativo Interface de Comando Eletromidia)
+[comment]: <> (Criado por Alexandre de Abreu - alexandre.abreu@eletromidia.com.br)
+[comment]: <> (Data : 17/06/2024)
+
+
 Conheça mais sobre os endereços de IP e suas portas seriais.
 
 ### Endereço de IP 

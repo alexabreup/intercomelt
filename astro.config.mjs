@@ -14,7 +14,7 @@ export default defineConfig({
 
 	integrations: [
 		starlight({
-			title: 'Departamento de Hardware/Interface de Comandos',
+			title: 'Depto.Hardware;Treinamento BOE',
 			customCss: [
 				// Relative path to your custom CSS file
 				'./src/styles/custom.css',],
@@ -25,7 +25,7 @@ export default defineConfig({
 			social: {
 				github: 'https://github.com/',
 			},
-			title: 'Departamento de Hardware/Interface de Comandos',
+			title: 'Depto.Hardware/Treinamento BOE',
 			locales: {
 			  root: {
 				label: 'Português do Brasil',
