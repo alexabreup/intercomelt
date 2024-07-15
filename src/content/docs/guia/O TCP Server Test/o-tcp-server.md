@@ -30,9 +30,14 @@ Fundamentalmente iremos trabalhar apenas com algumas partes do programa, os quai
 
 #### 1.1. Configurar a porta serial através do Port 
 
-A entrada Port é onde inserimos a porta serial de acesso do programa TCP Server Test. Normalmente todas as portas seriais possuem o número 55502. Insira o número dessa porta e aperte o botão Connect.
+A entrada Port é onde inserimos a porta serial de acesso do programa TCP Server Test. Normalmente todas as portas seriais possuem o número 55502. Ela está localizada na parte inferior esquerda do painel do programa.
 
 ![O programa TCP Server Test](https://i.imgur.com/pqFRuaw.png)
+
+Insira o número dessa porta e aperte o botão Connect.
+
+![Insira o número 55502 e pressione Connect](https://i.imgur.com/fcuLYA9.jpeg)
+
 
 ### 2. Verificar o IP do seu notebook na rede Wi Fi
 
