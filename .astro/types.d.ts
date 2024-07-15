@@ -143,30 +143,44 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"guia/Configurar/comandos-configurar.md": {
-	id: "guia/Configurar/comandos-configurar.md";
-  slug: "guia/configurar/comandos-configurar";
+"guia/Configurar a Interface de Comandos/Controle dos Relés/reles.md": {
+	id: "guia/Configurar a Interface de Comandos/Controle dos Relés/reles.md";
+  slug: "guia/configurar-a-interface-de-comandos/controle-dos-relés/reles";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"guia/Configurar/comandos-leitura.md": {
-	id: "guia/Configurar/comandos-leitura.md";
-  slug: "guia/configurar/comandos-leitura";
+"guia/Configurar a Interface de Comandos/Endereços/endereco-ip.md": {
+	id: "guia/Configurar a Interface de Comandos/Endereços/endereco-ip.md";
+  slug: "guia/configurar-a-interface-de-comandos/endereços/endereco-ip";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"guia/Controle dos Relés/reles.md": {
-	id: "guia/Controle dos Relés/reles.md";
-  slug: "guia/controle-dos-relés/reles";
+"guia/Configurar a Interface de Comandos/Schedule/confure-o-schedule.md": {
+	id: "guia/Configurar a Interface de Comandos/Schedule/confure-o-schedule.md";
+  slug: "guia/configurar-a-interface-de-comandos/schedule/confure-o-schedule";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"guia/Endereços/endereco-ip.md": {
-	id: "guia/Endereços/endereco-ip.md";
-  slug: "guia/endereços/endereco-ip";
+"guia/Configurar a Interface de Comandos/comandos-configurar.md": {
+	id: "guia/Configurar a Interface de Comandos/comandos-configurar.md";
+  slug: "guia/configurar-a-interface-de-comandos/comandos-configurar";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
+"guia/Configurar a Interface de Comandos/comandos-leitura.md": {
+	id: "guia/Configurar a Interface de Comandos/comandos-leitura.md";
+  slug: "guia/configurar-a-interface-de-comandos/comandos-leitura";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
+"guia/Introdução/configurar-acesso.md": {
+	id: "guia/Introdução/configurar-acesso.md";
+  slug: "guia/introdução/configurar-acesso";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
@@ -185,9 +199,9 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"guia/Schedule/confure-o-schedule.md": {
-	id: "guia/Schedule/confure-o-schedule.md";
-  slug: "guia/schedule/confure-o-schedule";
+"guia/tcp-ip/o-tcp-server.md": {
+	id: "guia/tcp-ip/o-tcp-server.md";
+  slug: "guia/tcp-ip/o-tcp-server";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
