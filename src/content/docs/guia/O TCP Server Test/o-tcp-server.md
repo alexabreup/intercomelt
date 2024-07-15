@@ -20,32 +20,19 @@ Leia esse documento atentamente antes de acessar operar o programa TCP Server Te
 
 Fundamentalmente iremos trabalhar apenas com algumas partes do programa, os quais devemos dominar plenamente para obter sucesso nas operações de configuração e leitura. Apresentamos primeiramente essas partes para que fiquem bem compreendidas pelos operadores, e na sequência todo o painel de controle para que o usuário entenda as funcionalidades adicionais que não serão necessárias a serem utilizadas nas maioria dos casos.
 
+### 1. O essencial para operar o TCP Server Test
 
-1. Network protocol
-2. Heartbeat enable
-3. Command filter enable
-4. Server IP
-5. Local IP
-6. Group receive IP
-7. Group send IP
-8. Botões Set, Get, Restart e Run Boot
+1. Custom Data 1
+2. Custom Data 2
+3. A caixa de texto "Receive"
+4. Port: A caixa para inserir a porta serial 
 
-### 1. Acesso a rede Wi Fi do MUB. 
 
-Para poder ter acesso ao painel de controle, é necessário primeiramente selecionar no seu notebook a rede na qual está conectado o MUB.
+#### 1.1. Configurar a porta serial através do Port 
 
-Existem 2 tipos de modens que operam dentro dos MUBs, um modelo é da empresa Claro e o outro é da empresa Vivo.
+A entrada Port é onde inserimos a porta serial de acesso do programa TCP Server Test. Normalmente todas as portas seriais possuem o número 55502. Insira o número dessa porta e aperte o botão Connect.
 
-Os modens da operadora Claro operam no ip 192.168.0.237, o 0 indica que é um aparelho dessa empresa.
-
-Os modens da operadora Vivo operam no ip 192.168.1.237, sendo o número 1 indicativo que é um aparelho dessa empresa.
-
-Conecte-se ao Wi Fi do Mub e acesse utilizando a senha devida para conseguir completar a conexão. 
-
-Caso haja algum problema ao conseguir acessar com a senha fornecida do MUB, faça um reset do aparelho e utilize o usuário e senha fornecido na parte inferior do modem. 
-
-Após alterar para a configuração padrão da operadora, acesse o painel de controle do modem e realize a mudança da senha para as senhas utilizadas pelo seu departamento.
-
+![O programa TCP Server Test](https://i.imgur.com/pqFRuaw.png)
 
 ### 2. Verificar o IP do seu notebook na rede Wi Fi
 
