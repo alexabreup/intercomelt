@@ -13,7 +13,7 @@ sidebar:
 
 Leia esse documento atentamente antes de acessar e alterar O Kit Embarcado de Acesso Remoto (Embedded Device Remote Access Kit) e sempre o utilize para futuras consultas.
 
-![Interface de Comandos Eletromidia](https://intercomelt.netlify.app/assets/images/interface-de-comandos.png)
+![O painel de controle](https://i.imgur.com/S273rK3.png)
  
  O Kit Embarcado de Acesso Remoto (Embedded Device Remote Access Kit) realiza a configuração da rede para habilitar o acesso a placa RMC. Esse painel de controle está dividido em 5 áreas:
 
@@ -54,6 +54,8 @@ Copie esse IP e guarde para poder configurar o seu notebook no painel de control
 ### 3. Acesso ao Kit Embarcado de Acesso Remoto (Embedded Device Remote Access Kit) 
 
 Será necessário realizar as alterações em apenas algumas partes do painel de controle.
+
+![Áreas a serem operadas](https://i.imgur.com/CB7Ith5.jpeg)
 
 São elas:
 

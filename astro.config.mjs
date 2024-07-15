@@ -40,8 +40,8 @@ export default defineConfig({
 
 				},
 				{
-					label: 'Referencia',
-					autogenerate: { directory: 'referencia' },
+					label: 'Referências',
+					autogenerate: { directory: 'Referencias' },
 				},
 			],
 			

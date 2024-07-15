@@ -141,99 +141,120 @@ declare module 'astro:content' {
   slug: "404";
   body: string;
   collection: "docs";
-  data: InferEntrySchema<"docs">
+  data: any
+} & { render(): Render[".md"] };
+"Referencias/example.md": {
+	id: "Referencias/example.md";
+  slug: "referencias/example";
+  body: string;
+  collection: "docs";
+  data: any
+} & { render(): Render[".md"] };
+"Referencias/faq.md": {
+	id: "Referencias/faq.md";
+  slug: "referencias/faq";
+  body: string;
+  collection: "docs";
+  data: any
+} & { render(): Render[".md"] };
+"Referencias/links.md": {
+	id: "Referencias/links.md";
+  slug: "referencias/links";
+  body: string;
+  collection: "docs";
+  data: any
 } & { render(): Render[".md"] };
 "guia/Configurar a Interface de Comandos/Controle dos Relés/reles.md": {
 	id: "guia/Configurar a Interface de Comandos/Controle dos Relés/reles.md";
   slug: "guia/configurar-a-interface-de-comandos/controle-dos-relés/reles";
   body: string;
   collection: "docs";
-  data: InferEntrySchema<"docs">
+  data: any
 } & { render(): Render[".md"] };
 "guia/Configurar a Interface de Comandos/Endereços/endereco-ip.md": {
 	id: "guia/Configurar a Interface de Comandos/Endereços/endereco-ip.md";
   slug: "guia/configurar-a-interface-de-comandos/endereços/endereco-ip";
   body: string;
   collection: "docs";
-  data: InferEntrySchema<"docs">
+  data: any
 } & { render(): Render[".md"] };
 "guia/Configurar a Interface de Comandos/Schedule/confure-o-schedule.md": {
 	id: "guia/Configurar a Interface de Comandos/Schedule/confure-o-schedule.md";
   slug: "guia/configurar-a-interface-de-comandos/schedule/confure-o-schedule";
   body: string;
   collection: "docs";
-  data: InferEntrySchema<"docs">
+  data: any
 } & { render(): Render[".md"] };
 "guia/Configurar a Interface de Comandos/comandos-configurar.md": {
 	id: "guia/Configurar a Interface de Comandos/comandos-configurar.md";
   slug: "guia/configurar-a-interface-de-comandos/comandos-configurar";
   body: string;
   collection: "docs";
-  data: InferEntrySchema<"docs">
+  data: any
 } & { render(): Render[".md"] };
 "guia/Configurar a Interface de Comandos/comandos-leitura.md": {
 	id: "guia/Configurar a Interface de Comandos/comandos-leitura.md";
   slug: "guia/configurar-a-interface-de-comandos/comandos-leitura";
   body: string;
   collection: "docs";
-  data: InferEntrySchema<"docs">
+  data: any
 } & { render(): Render[".md"] };
-"guia/Introdução/configurar-acesso.md": {
-	id: "guia/Introdução/configurar-acesso.md";
-  slug: "guia/introdução/configurar-acesso";
+"guia/Configurar a Interface de Comandos/instalar.md": {
+	id: "guia/Configurar a Interface de Comandos/instalar.md";
+  slug: "guia/configurar-a-interface-de-comandos/instalar";
   body: string;
   collection: "docs";
-  data: InferEntrySchema<"docs">
+  data: any
 } & { render(): Render[".md"] };
-"guia/Introdução/instalar.md": {
-	id: "guia/Introdução/instalar.md";
-  slug: "guia/introdução/instalar";
+"guia/Configurar a Interface de Comandos/opainel.md": {
+	id: "guia/Configurar a Interface de Comandos/opainel.md";
+  slug: "guia/configurar-a-interface-de-comandos/opainel";
   body: string;
   collection: "docs";
-  data: InferEntrySchema<"docs">
+  data: any
 } & { render(): Render[".md"] };
-"guia/Introdução/opainel.md": {
-	id: "guia/Introdução/opainel.md";
-  slug: "guia/introdução/opainel";
+"guia/Introdução/Os Modens/configurar-acesso.md": {
+	id: "guia/Introdução/Os Modens/configurar-acesso.md";
+  slug: "guia/introdução/os-modens/configurar-acesso";
   body: string;
   collection: "docs";
-  data: InferEntrySchema<"docs">
+  data: any
+} & { render(): Render[".md"] };
+"guia/Introdução/Os Modens/modem-claro.md": {
+	id: "guia/Introdução/Os Modens/modem-claro.md";
+  slug: "guia/introdução/os-modens/modem-claro";
+  body: string;
+  collection: "docs";
+  data: any
+} & { render(): Render[".md"] };
+"guia/O RTD Customer Tool/como-usar-o-rtd-customer-tool.md": {
+	id: "guia/O RTD Customer Tool/como-usar-o-rtd-customer-tool.md";
+  slug: "guia/o-rtd-customer-tool/como-usar-o-rtd-customer-tool";
+  body: string;
+  collection: "docs";
+  data: any
 } & { render(): Render[".md"] };
 "guia/O TCP Server Test/o-tcp-server.md": {
 	id: "guia/O TCP Server Test/o-tcp-server.md";
   slug: "guia/o-tcp-server-test/o-tcp-server";
   body: string;
   collection: "docs";
-  data: InferEntrySchema<"docs">
+  data: any
+} & { render(): Render[".md"] };
+"guia/index.md": {
+	id: "guia/index.md";
+  slug: "guia";
+  body: string;
+  collection: "docs";
+  data: any
 } & { render(): Render[".md"] };
 "index.mdx": {
 	id: "index.mdx";
   slug: "index";
   body: string;
   collection: "docs";
-  data: InferEntrySchema<"docs">
+  data: any
 } & { render(): Render[".mdx"] };
-"referências/example.md": {
-	id: "referências/example.md";
-  slug: "referências/example";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"referências/faq.md": {
-	id: "referências/faq.md";
-  slug: "referências/faq";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"referências/links.md": {
-	id: "referências/links.md";
-  slug: "referências/links";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
 };
 
 	};
@@ -244,5 +265,5 @@ declare module 'astro:content' {
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;
 
-	export type ContentConfig = typeof import("../src/content/config.js");
+	export type ContentConfig = never;
 }
