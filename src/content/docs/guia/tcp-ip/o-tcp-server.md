@@ -11,11 +11,14 @@ sidebar:
 [comment]: <> (Criado por Alexandre de Abreu - alexandre.abreu@eletromidia.com.br)
 [comment]: <> (Data : 17/06/2024)
 
-Leia esse documento atentamente antes de acessar e alterar O Kit Embarcado de Acesso Remoto (Embedded Device Remote Access Kit) e sempre o utilize para futuras consultas.
+Leia esse documento atentamente antes de acessar operar o programa TCP Server Test, e sempre o utilize para futuras consultas.
 
-![Interface de Comandos Eletromidia](https://intercomelt.netlify.app/assets/images/interface-de-comandos.png)
+![O programa TCP Server Test](https://intercomelt.netlify.app/assets/images/tcp-server.png)
  
- O Kit Embarcado de Acesso Remoto (Embedded Device Remote Access Kit) realiza a configuração da rede para habilitar o acesso a placa RMC. Esse painel de controle está dividido em 5 áreas:
+ O programa TCP Server Test é utilizado para realizar a leitura e configuração da placa RMC que controla os dispositivos operados no MUB.
+
+Fundamentalmente iremos trabalhar apenas com algumas partes do programa, os quais devemos dominar plenamente para obter sucesso nas operações de configuração e leitura. Apresentamos primeiramente essas partes para que fiquem bem compreendidas pelos operadores, e na sequência todo o painel de controle para que o usuário entenda as funcionalidades adicionais que não serão necessárias a serem utilizadas nas maioria dos casos.
+
 
 1. Network protocol
 2. Heartbeat enable
