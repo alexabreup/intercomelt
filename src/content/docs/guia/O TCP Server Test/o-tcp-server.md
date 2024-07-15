@@ -13,7 +13,8 @@ sidebar:
 
 Leia esse documento atentamente antes de acessar operar o programa TCP Server Test, e sempre o utilize para futuras consultas.
 
-![O programa TCP Server Test](https://intercomelt.netlify.app/assets/images/tcp-server.png)
+
+![O programa TCP Server Test](https://i.imgur.com/UUs6bob.png)
  
  O programa TCP Server Test é utilizado para realizar a leitura e configuração da placa RMC que controla os dispositivos operados no MUB.
 

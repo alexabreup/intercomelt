@@ -199,9 +199,9 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"guia/tcp-ip/o-tcp-server.md": {
-	id: "guia/tcp-ip/o-tcp-server.md";
-  slug: "guia/tcp-ip/o-tcp-server";
+"guia/O TCP Server Test/o-tcp-server.md": {
+	id: "guia/O TCP Server Test/o-tcp-server.md";
+  slug: "guia/o-tcp-server-test/o-tcp-server";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
