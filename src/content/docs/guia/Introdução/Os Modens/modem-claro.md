@@ -3,7 +3,7 @@ title: O Modem Claro
 description: Como configurar o modem da operadora Claro MF286C
 
 sidebar:
-    order: 3
+    order: 2
  
 ---
 

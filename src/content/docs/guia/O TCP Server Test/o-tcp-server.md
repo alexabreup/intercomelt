@@ -3,7 +3,7 @@ title: O programa TCP Server Test
 description: Como operar o software de configuração e controle do RMC
 
 sidebar:
-    order: 1
+    order: 4
  
 ---
 

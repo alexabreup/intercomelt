@@ -2,7 +2,7 @@
 title: Instalação
 description: Como instalar o programa Interface de Comandos Eletromidia
 sidebar:
-    order: 1
+    order: 6
 ---
 [comment]: <> (Documentação online para o aplicativo Interface de Comando Eletromidia)
 [comment]: <> (Criado por Alexandre de Abreu - alexandre.abreu@eletromidia.com.br)

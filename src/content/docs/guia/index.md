@@ -3,7 +3,7 @@ title: Guia do treinamento
 description: Como utilizar os guias para treinamento
 
 sidebar:
-    order: 2
+    order: 1
  
 ---
 

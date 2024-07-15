@@ -1,6 +1,8 @@
 ---
 title: Configure o Schedule
 description: Como ajustar os horários e porcentagem de brilho
+sidebar:
+    order: 9
 ---
 
 [comment]: <> (Documentação online para o aplicativo Interface de Comando Eletromidia)

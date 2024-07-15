@@ -2,7 +2,7 @@
 title: Endereço de IP e Porta de Acesso
 description: A aplição o número de IP 
 sidebar:
-    order: 5
+    order: 10
 ---
 
 [comment]: <> (Documentação online para o aplicativo Interface de Comando Eletromidia)

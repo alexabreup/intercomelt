@@ -3,7 +3,7 @@ title: O programa RTD Customer Tool
 description: Como realizar a atualização do firmware da placa AD
 
 sidebar:
-    order: 1
+    order: 3
  
 ---
 

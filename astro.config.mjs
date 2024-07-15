@@ -33,10 +33,19 @@ export default defineConfig({
 			  },
 			},
 			sidebar: [
+				
 				{
 					label: 'Guia',
 					label: 'Guia',
 					autogenerate: { directory: 'guia' },
+					badge: 'Treinamento',
+
+				},
+				{
+					label: 'Interface de Comandos',
+					label: 'Interface de Comandos',
+					autogenerate: { directory: 'Configurar a Interface de Comandos' },
+					badge: 'Aplicativo',
 
 				},
 				{

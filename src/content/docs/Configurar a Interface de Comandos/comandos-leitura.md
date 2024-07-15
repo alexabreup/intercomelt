@@ -2,7 +2,7 @@
 title: Comandos de Leitura
 description: Saiba como ler os códigos dos dispositivos
 sidebar:
-    order: 5
+    order: 7
 ---
 
 Leia atentamente antes de operar o aplicativo de comando e leitura, sempre utilizando para futuras consultas.

@@ -3,7 +3,7 @@ title: A configuração do acesso
 description: Como acessar o controle da placa RMC Eletromidia
 
 sidebar:
-    order: 2
+    order: 1
  
 ---
 

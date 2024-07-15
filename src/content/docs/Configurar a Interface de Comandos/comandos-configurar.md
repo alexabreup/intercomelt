@@ -2,7 +2,7 @@
 title: Comandos de Configuração 
 description: Saiba como configurar
 sidebar:
-    order: 4
+    order: 8
 ---
 
 Leia atentamente antes de operar o aplicativo de comando e leitura, sempre utilizando para futuras consultas.

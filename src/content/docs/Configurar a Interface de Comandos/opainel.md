@@ -3,7 +3,7 @@ title: O Painel de Comandos
 description: Conheça a interface de comandos Eletromidia
 
 sidebar:
-    order: 3
+    order: 5
  
 ---
 

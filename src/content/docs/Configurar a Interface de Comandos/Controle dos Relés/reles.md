@@ -2,7 +2,7 @@
 title: Controle dos Relés
 description: Aprenda como criar um calendário de controle
 sidebar:
-    order: 4
+    order: 11
 ---
 
 Os relés são responsáveis pelos acionamentos dos dispositivos, através dos sinais 
