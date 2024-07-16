@@ -213,6 +213,13 @@ declare module 'astro:content' {
   collection: "docs";
   data: any
 } & { render(): Render[".md"] };
+"guia/Atualização BOE Mubs/atualizar-placas.md": {
+	id: "guia/Atualização BOE Mubs/atualizar-placas.md";
+  slug: "guia/atualização-boe-mubs/atualizar-placas";
+  body: string;
+  collection: "docs";
+  data: any
+} & { render(): Render[".md"] };
 "guia/Introdução/Os Modens/configurar-acesso.md": {
 	id: "guia/Introdução/Os Modens/configurar-acesso.md";
   slug: "guia/introdução/os-modens/configurar-acesso";
