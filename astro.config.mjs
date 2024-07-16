@@ -14,7 +14,7 @@ export default defineConfig({
 
 	integrations: [
 		starlight({
-			title: 'Depto.Hardware;Treinamento BOE',
+			title: 'Departamento de Hardware;Treinamento BOE',
 			customCss: [
 				// Relative path to your custom CSS file
 				'./src/styles/custom.css',],
