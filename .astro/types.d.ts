@@ -141,126 +141,119 @@ declare module 'astro:content' {
   slug: "404";
   body: string;
   collection: "docs";
-  data: InferEntrySchema<"docs">
+  data: any
 } & { render(): Render[".md"] };
 "Configurar a Interface de Comandos/Controle dos Relés/reles.md": {
 	id: "Configurar a Interface de Comandos/Controle dos Relés/reles.md";
   slug: "configurar-a-interface-de-comandos/controle-dos-relés/reles";
   body: string;
   collection: "docs";
-  data: InferEntrySchema<"docs">
+  data: any
 } & { render(): Render[".md"] };
 "Configurar a Interface de Comandos/Endereços/endereco-ip.md": {
 	id: "Configurar a Interface de Comandos/Endereços/endereco-ip.md";
   slug: "configurar-a-interface-de-comandos/endereços/endereco-ip";
   body: string;
   collection: "docs";
-  data: InferEntrySchema<"docs">
+  data: any
 } & { render(): Render[".md"] };
 "Configurar a Interface de Comandos/Schedule/configure-o-schedule.md": {
 	id: "Configurar a Interface de Comandos/Schedule/configure-o-schedule.md";
   slug: "configurar-a-interface-de-comandos/schedule/configure-o-schedule";
   body: string;
   collection: "docs";
-  data: InferEntrySchema<"docs">
+  data: any
 } & { render(): Render[".md"] };
 "Configurar a Interface de Comandos/comandos-configurar.md": {
 	id: "Configurar a Interface de Comandos/comandos-configurar.md";
   slug: "configurar-a-interface-de-comandos/comandos-configurar";
   body: string;
   collection: "docs";
-  data: InferEntrySchema<"docs">
+  data: any
 } & { render(): Render[".md"] };
 "Configurar a Interface de Comandos/comandos-leitura.md": {
 	id: "Configurar a Interface de Comandos/comandos-leitura.md";
   slug: "configurar-a-interface-de-comandos/comandos-leitura";
   body: string;
   collection: "docs";
-  data: InferEntrySchema<"docs">
+  data: any
 } & { render(): Render[".md"] };
 "Configurar a Interface de Comandos/instalar.md": {
 	id: "Configurar a Interface de Comandos/instalar.md";
   slug: "configurar-a-interface-de-comandos/instalar";
   body: string;
   collection: "docs";
-  data: InferEntrySchema<"docs">
+  data: any
 } & { render(): Render[".md"] };
 "Configurar a Interface de Comandos/opainel.md": {
 	id: "Configurar a Interface de Comandos/opainel.md";
   slug: "configurar-a-interface-de-comandos/opainel";
   body: string;
   collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"Referencias/example.md": {
-	id: "Referencias/example.md";
-  slug: "referencias/example";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"Referencias/faq.md": {
-	id: "Referencias/faq.md";
-  slug: "referencias/faq";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
+  data: any
 } & { render(): Render[".md"] };
 "Referencias/links.md": {
 	id: "Referencias/links.md";
   slug: "referencias/links";
   body: string;
   collection: "docs";
-  data: InferEntrySchema<"docs">
+  data: any
+} & { render(): Render[".md"] };
+"Referencias/sobrenos.md": {
+	id: "Referencias/sobrenos.md";
+  slug: "referencias/sobrenos";
+  body: string;
+  collection: "docs";
+  data: any
 } & { render(): Render[".md"] };
 "guia/Introdução/Os Modens/configurar-acesso.md": {
 	id: "guia/Introdução/Os Modens/configurar-acesso.md";
   slug: "guia/introdução/os-modens/configurar-acesso";
   body: string;
   collection: "docs";
-  data: InferEntrySchema<"docs">
+  data: any
 } & { render(): Render[".md"] };
 "guia/Introdução/Os Modens/modem-claro.md": {
 	id: "guia/Introdução/Os Modens/modem-claro.md";
   slug: "guia/introdução/os-modens/modem-claro";
   body: string;
   collection: "docs";
-  data: InferEntrySchema<"docs">
+  data: any
 } & { render(): Render[".md"] };
 "guia/Introdução/Os Modens/modem-vivo.md": {
 	id: "guia/Introdução/Os Modens/modem-vivo.md";
   slug: "guia/introdução/os-modens/modem-vivo";
   body: string;
   collection: "docs";
-  data: InferEntrySchema<"docs">
+  data: any
 } & { render(): Render[".md"] };
 "guia/O RTD Customer Tool/como-usar-o-rtd-customer-tool.md": {
 	id: "guia/O RTD Customer Tool/como-usar-o-rtd-customer-tool.md";
   slug: "guia/o-rtd-customer-tool/como-usar-o-rtd-customer-tool";
   body: string;
   collection: "docs";
-  data: InferEntrySchema<"docs">
+  data: any
 } & { render(): Render[".md"] };
 "guia/O TCP Server Test/o-tcp-server.md": {
 	id: "guia/O TCP Server Test/o-tcp-server.md";
   slug: "guia/o-tcp-server-test/o-tcp-server";
   body: string;
   collection: "docs";
-  data: InferEntrySchema<"docs">
+  data: any
 } & { render(): Render[".md"] };
 "guia/index.md": {
 	id: "guia/index.md";
   slug: "guia";
   body: string;
   collection: "docs";
-  data: InferEntrySchema<"docs">
+  data: any
 } & { render(): Render[".md"] };
 "index.mdx": {
 	id: "index.mdx";
   slug: "index";
   body: string;
   collection: "docs";
-  data: InferEntrySchema<"docs">
+  data: any
 } & { render(): Render[".mdx"] };
 };
 
@@ -272,5 +265,5 @@ declare module 'astro:content' {
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;
 
-	export type ContentConfig = typeof import("../src/content/config.js");
+	export type ContentConfig = never;
 }

@@ -7,7 +7,7 @@ sidebar:
  
 ---
 
-[comment]: <> (Documentação online para o aplicativo Interface de Comando Eletromidia)
+[comment]: <> (Documentação online para o treinamento Eletromidia - Documentação de configuração do modem Vivo criado por Thiago Ferreira)
 [comment]: <> (Criado por Alexandre de Abreu - alexandre.abreu@eletromidia.com.br)
 [comment]: <> (Data : 17/06/2024)
 
