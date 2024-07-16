@@ -61,5 +61,4 @@ Veja o diagrama abaixo:
 
 <b><u>Etapa 3.:</b></u> Na primeira execução do programa “RTD Customer Tool”, instale o USB
 
-Driver disponível em
-https://drive.google.com/file/d/1r14RClgrS4sKxrd1FLxFzscY4f7XCLk4/view?usp=drive_link ou escolhe a “Opção de comunicação” → pressione o botão “Instalar” na seção do driver como retratado na imagem abaixo.
+Driver disponível na página de Referências/Links ou escolhe a “Opção de comunicação” → pressione o botão “Instalar” na seção do driver como retratado na imagem abaixo.
