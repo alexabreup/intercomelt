@@ -58,7 +58,7 @@ A Interface Web do Usuário (Web UI) permite que você configure o Box usando se
 
 <b><u>Etapa 2.:</b></u>  Abra seu navegador da web e digite 192.168.1.1 no campo de endereço web.
 
-![](https://i.imgur.com/84Mst3v.png
+![](https://i.imgur.com/84Mst3v.png)
 
 
 #### Nota:
