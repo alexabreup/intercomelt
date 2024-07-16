@@ -25,7 +25,8 @@ São Paulo, SP  - 16/07/2024</i>
 Esse guia tem a função de preparar os colaboradores da Eletromidia para realizarem as atualizações e operações com os programas utilizados nas placas BOE.
 
 <b><u>Dividimos esse guia em 4 partes:</b></u>
-1. Configurações dos modens Claro e Vivo
-2. Utilização do RTD Customer Tool
-3. Utilização TCP Server Test
-4. Utilização do programa Interface de Comandos Eletromidia 
+1. O manual de atualização BOE para MUB
+2. Configurações dos modens Claro e Vivo
+3. Utilização do RTD Customer Tool
+4. Utilização TCP Server Test
+5. Utilização do programa Interface de Comandos Eletromidia 

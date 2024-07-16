@@ -220,27 +220,6 @@ declare module 'astro:content' {
   collection: "docs";
   data: any
 } & { render(): Render[".md"] };
-"guia/Introdução/Os Modens/configurar-acesso.md": {
-	id: "guia/Introdução/Os Modens/configurar-acesso.md";
-  slug: "guia/introdução/os-modens/configurar-acesso";
-  body: string;
-  collection: "docs";
-  data: any
-} & { render(): Render[".md"] };
-"guia/Introdução/Os Modens/modem-claro.md": {
-	id: "guia/Introdução/Os Modens/modem-claro.md";
-  slug: "guia/introdução/os-modens/modem-claro";
-  body: string;
-  collection: "docs";
-  data: any
-} & { render(): Render[".md"] };
-"guia/Introdução/Os Modens/modem-vivo.md": {
-	id: "guia/Introdução/Os Modens/modem-vivo.md";
-  slug: "guia/introdução/os-modens/modem-vivo";
-  body: string;
-  collection: "docs";
-  data: any
-} & { render(): Render[".md"] };
 "guia/O RTD Customer Tool/como-usar-o-rtd-customer-tool.md": {
 	id: "guia/O RTD Customer Tool/como-usar-o-rtd-customer-tool.md";
   slug: "guia/o-rtd-customer-tool/como-usar-o-rtd-customer-tool";
@@ -251,6 +230,27 @@ declare module 'astro:content' {
 "guia/O TCP Server Test/o-tcp-server.md": {
 	id: "guia/O TCP Server Test/o-tcp-server.md";
   slug: "guia/o-tcp-server-test/o-tcp-server";
+  body: string;
+  collection: "docs";
+  data: any
+} & { render(): Render[".md"] };
+"guia/Os Modens/configurar-acesso.md": {
+	id: "guia/Os Modens/configurar-acesso.md";
+  slug: "guia/os-modens/configurar-acesso";
+  body: string;
+  collection: "docs";
+  data: any
+} & { render(): Render[".md"] };
+"guia/Os Modens/modem-claro.md": {
+	id: "guia/Os Modens/modem-claro.md";
+  slug: "guia/os-modens/modem-claro";
+  body: string;
+  collection: "docs";
+  data: any
+} & { render(): Render[".md"] };
+"guia/Os Modens/modem-vivo.md": {
+	id: "guia/Os Modens/modem-vivo.md";
+  slug: "guia/os-modens/modem-vivo";
   body: string;
   collection: "docs";
   data: any
