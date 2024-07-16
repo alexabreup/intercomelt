@@ -1,6 +1,6 @@
 ---
-title: Instalação
-description: Como instalar o programa Interface de Comandos Eletromidia
+title: Instalação no Windows
+description: Como instalar o programa Interface de Comandos Eletromidia no Windows
 sidebar:
     order: 6
 ---
@@ -19,8 +19,3 @@ Utilize o link acima marcado para baixar o software Interface de Comando Eletrom
 Abra a janela do seu controlador de acesso Wi-Fi e selecione o modem do dispositivo a ser operado. Ingresse o usuário e a senha para que consiga acessar a rede.
 
 
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|

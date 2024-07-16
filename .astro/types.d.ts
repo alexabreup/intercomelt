@@ -178,9 +178,16 @@ declare module 'astro:content' {
   collection: "docs";
   data: any
 } & { render(): Render[".md"] };
-"Configurar a Interface de Comandos/instalar.md": {
-	id: "Configurar a Interface de Comandos/instalar.md";
-  slug: "configurar-a-interface-de-comandos/instalar";
+"Configurar a Interface de Comandos/instalar-linux.md": {
+	id: "Configurar a Interface de Comandos/instalar-linux.md";
+  slug: "configurar-a-interface-de-comandos/instalar-linux";
+  body: string;
+  collection: "docs";
+  data: any
+} & { render(): Render[".md"] };
+"Configurar a Interface de Comandos/instalar-windows.md": {
+	id: "Configurar a Interface de Comandos/instalar-windows.md";
+  slug: "configurar-a-interface-de-comandos/instalar-windows";
   body: string;
   collection: "docs";
   data: any
