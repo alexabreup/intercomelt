@@ -8,13 +8,13 @@ Lista de links úteis para a realização do treinamento e repositórios com os 
 ## Programas
 
 ### Interface de Comandos
-- Criado pelo Departamento de Hardware Eletromidia [Baixe Aqui](#) para a versão Windows e [Baixe Aqui](#) para a versão MX Linux 21.
+- Criado pelo Departamento de Hardware Eletromidia [Baixe Aqui](https://drive.google.com/file/d/1lYajrG2uSZA0QcRHBQhZgZ_C5JkBDwJ_/view?usp=drive_link) para a versão Windows e [Baixe Aqui](#) para a versão MX Linux 21.
 
 ### TCP Server Test
-- O programa para acessar, configurar e ler a placa RMC [Baixe Aqui](#).
+- O programa para acessar, configurar e ler a placa RMC [Baixe Aqui](https://drive.google.com/file/d/1jiWvUKo4-vqySHiBluZJgpN4X_CW3gsp/view?usp=drive_link).
 
 ### RTD Customer Tool
-- O programa para atualizar o firmware da placa AD [Baixe Aqui](#).
+- O programa para atualizar o firmware da placa AD [Baixe Aqui](https://drive.google.com/drive/folders/1G731JCWcYKL3zHtpRGDOoBdZKHaQoDM2?usp=drive_link).
 
 ## Drivers
 
