@@ -11,7 +11,9 @@ sidebar:
 [comment]: <> (Criado por Alexandre de Abreu - alexandre.abreu@eletromidia.com.br)
 [comment]: <> (Data : 17/06/2024)
 
-Leia esse documento atentamente antes de acessar e alterar O Kit Embarcado de Acesso Remoto (Embedded Device Remote Access Kit) e sempre o utilize para futuras consultas.
+:::tip[Leia com atenção!]
+Leia esse documento atentamente antes de acessar e alterar o Kit Embarcado de Acesso Remoto (Embedded Device Remote Access Kit), e sempre o utilize para futuras consultas.
+:::
 
 ![O painel de controle](https://i.imgur.com/S273rK3.png)
  

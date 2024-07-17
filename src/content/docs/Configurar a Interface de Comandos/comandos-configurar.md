@@ -47,8 +47,4 @@ Nesse modo, estão disponíveis ao todo 30 comandos de configuração listados a
 | Relay - 5 ON | Rele 5 lconfigurar-rede-wifi.jpegigado |
 
 
-No caso ilustrado abaixo, vemos a seleção do comando de configuração
- 
-
-![Interface de Comandos Eletromidia](https://intercomelt.netlify.app/assets/images/comando-config-1.jpg)
 

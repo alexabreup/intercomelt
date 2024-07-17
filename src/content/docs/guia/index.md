@@ -22,11 +22,35 @@ São Paulo, SP  - 16/07/2024</i>
 
 ## Como utilizar o nosso guia de treinamento
 
-Esse guia tem a função de preparar os colaboradores da Eletromidia para realizarem as atualizações e operações com os programas utilizados nas placas BOE.
+Esse guia tem a função de preparar os colaboradores da Eletromidia para realizarem as atualizações e operações com os programas utilizados nas placas BOE utilizados nos MUBs.
 
-<b><u>Dividimos esse guia em 4 partes:</b></u>
-1. O manual de atualização BOE para MUB
+<b><u>Dividimos esse guia em 4 partes seqüenciais, iniciando pelo:</b></u>
+
+1. Manual de atualização BOE para MUB
 2. Configurações dos modens Claro e Vivo
 3. Utilização do RTD Customer Tool
 4. Utilização TCP Server Test
 5. Utilização do programa Interface de Comandos Eletromidia 
+
+#### O manual de atualização BOE para MUB
+
+Esse manual apresenta as placas utilizadas no MUB, os itens necessários para atualizações e a sequência de atualização do protocolo e firmware. Esse é o primeiro passo para entender o funcionamento do processo de atualização e verificação de funcionamento das placas.
+
+#### Os modens e as configurações das operadoras Claro e VIvo
+
+Apresentamos os manuais são fundamentais para compreender e acessar com êxito a rede Wi Fi das placas BOE.
+
+Começando pela configuração de acesso, que apresenta os parâmetros para configurar a conexão com a placa RMC via o Kit Embarcado de Acesso Remoto (Embedded Device Remote Access Kit), passando para as configurações dos modens das operadoras Claro e Vivo. Cada operadora tem suas particularidades e seguindo as instruções você consiguirá realizar essa operação com sucesso.
+
+#### O RTD Customer Tool
+
+O programa de gravação da firmware para a placa gráfica AD.
+
+#### O TCP Server Test
+
+O programa para a leitura e configuração da placa RMC que controla os dispositivos operados no MUB.
+
+#### O aplicativo Interface de Comandos Eletromidia
+
+Esse aplicativo foi desenvolvido pelo departamento de hardware da Eletromidia, e simplifica a operação de configuração e leitura das placas RMC.
+

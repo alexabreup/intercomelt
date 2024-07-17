@@ -11,8 +11,9 @@ sidebar:
 [comment]: <> (Criado por Alexandre de Abreu - alexandre.abreu@eletromidia.com.br)
 [comment]: <> (Data : 17/06/2024)
 
+:::tip[Leia com atenção!]
 Leia esse documento atentamente antes de acessar operar o programa TCP Server Test, e sempre o utilize para futuras consultas.
-
+:::
 
 ![O programa TCP Server Test](https://i.imgur.com/UUs6bob.png)
  

@@ -11,7 +11,9 @@ sidebar:
 [comment]: <> (Criado por Alexandre de Abreu - alexandre.abreu@eletromidia.com.br)
 [comment]: <> (Data : 17/06/2024)
 
+:::tip[Leia com atenção!]
 Leia esse documento atentamente antes de acessar e alterar modem da operadora Claro, e sempre o utilize para futuras consultas.
+:::
 
 ![Reconhecimento do Modem Claro MF286C](https://i.imgur.com/eWIdinA.png)
  
