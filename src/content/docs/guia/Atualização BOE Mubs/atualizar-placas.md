@@ -37,9 +37,17 @@ de dados / controle.
 
 ![A placa Fan](https://i.imgur.com/2AIMfR5.png)
 
+### Reconhecendo as placas Fan v.1 e v.2
 :::caution
-Só atualizamos a placa FAN V – 1!
+Só atualizamos a placa FAN V – 1! Nunca atualize a placa FAN V -2 !
 :::
+
+#### A placa fan V.1
+![A placa fan V.1](https://i.imgur.com/X8hOmKc.jpeg)
+
+
+#### A placa fan V.2
+![A placa fan V.2](https://i.imgur.com/tn2Hhav.jpeg)
 
 ### Conhecendo a Placa RMC V-1
 Placa RMC, onde sua finalidade é controlar e monitorar os sensores e funcionalidades da

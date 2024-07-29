@@ -2,7 +2,7 @@
 title: Instalação do IOTdeploy.bin no MX Linux 21
 description: Como instalar
 sidebar:
-    order: 6
+    order: 2
 ---
 [comment]: <> (Documentação online para o aplicativo Interface de Comando Eletromidia)
 [comment]: <> (Criado por Alexandre de Abreu - alexandre.abreu@eletromidia.com.br)
