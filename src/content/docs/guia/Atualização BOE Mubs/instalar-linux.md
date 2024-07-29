@@ -1,6 +1,6 @@
 ---
-title: Instalação no MX Linux 21
-description: Como instalar o programa Interface de Comandos Eletromidia no Linux
+title: Instalação do IOTdeploy.bin no MX Linux 21
+description: Como instalar
 sidebar:
     order: 6
 ---
@@ -9,7 +9,7 @@ sidebar:
 [comment]: <> (Data : 17/06/2024)
 
 :::caution
-O programa Interface de Comandos para Linux funciona apenas no sistema operaciona MX Linux versão 21. Pelo fato de ter sido elaborado para esse sistema operacional e a versão do Kernel (5.10 ou maior), haverá instabilidades ou não funcionamento em outros sistemas operacionais baseados no Debian.
+O binário IOTdeploy.bin funciona apenas para o sistema operaciona MX Linux em sua versão 21. Pelo fato de ter sido elaborado para esse sistema operacional e a versão do Kernel (5.10 ou maior), haverá instabilidades ou não funcionamento em outros sistemas operacionais baseados no Debian.
 :::
 
 ### Instalação no MX Linux 21
@@ -42,6 +42,8 @@ Insira o pendrive com o arquivo do programa.
 
 #### Baixe o arquivo para instalação no Linux MX 21
 
-Faça o download do arquivo para a instalação em seu NUC ou notebook MX Linux 21 [Baixe Aqui](#).
+Faça o download do arquivo <i><b>install.sh</b></i> para a instalação no NUC com o sistema operacional MX Linux 21 [Baixe Aqui](https://drive.google.com/file/d/1Bj-QVuycW9sk-5rlc8AcdWb5NvjiIBcc/view?usp=drive_link).
+
+Faça o download do arquivo <i><b>IOTdeploy.bin</b></i> para a instalação no NUC com o sistema operacional MX Linux 21 [Baixe Aqui](https://drive.google.com/file/d/1Bj-QVuycW9sk-5rlc8AcdWb5NvjiIBcc/view?usp=drive_link).
 
  
