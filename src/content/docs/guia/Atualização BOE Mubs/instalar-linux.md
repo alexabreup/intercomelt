@@ -9,7 +9,7 @@ sidebar:
 [comment]: <> (Data : 17/06/2024)
 
 :::caution
-O binário IOTdeploy.bin funciona apenas para o sistema operaciona MX Linux em sua versão 21. Pelo fato de ter sido elaborado para esse sistema operacional e a versão do Kernel (5.10 ou maior), haverá instabilidades ou não funcionamento em outros sistemas operacionais baseados no Debian.
+O arquivo binário <b>IOTdeploy.bin</b> funciona apenas para o sistema operacional <b>MX Linux em sua versão 21</b>. Pelo fato de ter sido elaborado para esse sistema operacional e a versão do Kernel (5.10 ou maior), haverá instabilidades ou não funcionamento em outros sistemas operacionais baseados no Debian.
 :::
 
 ### Instalação no MX Linux 21
