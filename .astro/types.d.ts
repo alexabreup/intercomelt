@@ -213,6 +213,13 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
+"guia/Atualização BOE Mubs/links-arquivos.md": {
+	id: "guia/Atualização BOE Mubs/links-arquivos.md";
+  slug: "guia/atualização-boe-mubs/links-arquivos";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
 "guia/O RTD Customer Tool/como-usar-o-rtd-customer-tool.md": {
 	id: "guia/O RTD Customer Tool/como-usar-o-rtd-customer-tool.md";
   slug: "guia/o-rtd-customer-tool/como-usar-o-rtd-customer-tool";
