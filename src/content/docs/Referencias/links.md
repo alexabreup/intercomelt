@@ -18,8 +18,8 @@ Lista de links úteis para a realização do treinamento e repositórios com os 
 
 ## Drivers
 
-### AD V-49
-- Driver da placa AD versão 49 [Baixe Aqui](https://drive.google.com/file/d/1-cZyCihCaiUwK-0bc8ZlKRmDj0Tai6EB/view?usp=drive_link).
+### AD V-51
+- Driver da placa AD versão 51 [Baixe Aqui](https://github.com/alexabreup/boe-elt/blob/main/AD_ZG435_v50_v51/RL6449_Project.bin).
 
 ### Fan V-1.20
 - Binário da placa contoladora dos Fans versão 1.20 [Baixe Aqui](https://drive.google.com/file/d/16UKcpfm5HLF-38s1IjK8fxzpA7fASouC/view?usp=drive_link).
@@ -37,7 +37,7 @@ Lista de links úteis para a realização do treinamento e repositórios com os 
 
 
 ### RMC V-1.30
-- Arquivo do firmware RMC V-1.30 [Baixe Aqui](https://drive.google.com/drive/folders/1aSIM5SkNw2XFQyDY34FqCN9aPBG8erE3?usp=drive_link).
+- Arquivo do firmware RMC V-1.30 [Baixe Aqui](https://github.com/alexabreup/boe-elt/blob/main/RMC_ZGS126_v130/ZGS126_Upgrade.bin).
 
 ## JSON
 
