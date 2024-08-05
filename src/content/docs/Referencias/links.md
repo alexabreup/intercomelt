@@ -16,18 +16,24 @@ Lista de links úteis para a realização do treinamento e repositórios com os 
 ### RTD Customer Tool
 - O programa para atualizar o firmware da placa AD [Baixe Aqui](https://drive.google.com/drive/folders/1G731JCWcYKL3zHtpRGDOoBdZKHaQoDM2?usp=drive_link).
 
-## Drivers
+
+## Firmwares & Drivers
 
 ### AD V-51
-- Driver da placa AD versão 51 [Baixe Aqui](https://github.com/alexabreup/boe-elt/blob/main/AD_ZG435_v50_v51/RL6449_Project.bin).
+- Driver da placa AD versão 51 [Baixe Aqui](https://drive.google.com/file/d/1pSgIIf07O19inZ3hRe8uSjHr-RWk9whD/view?usp=drive_link).
 
 ### Fan V-1.20
 - Binário da placa contoladora dos Fans versão 1.20 [Baixe Aqui](https://drive.google.com/file/d/16UKcpfm5HLF-38s1IjK8fxzpA7fASouC/view?usp=drive_link).
 
-## Firmwares
+### RMC V-1.30
+- Arquivo do firmware RMC V-1.30 [Baixe Aqui](https://drive.google.com/file/d/1tTrHzgc8wtR9EaQq5sWgqR5szZc0vjH2/view?usp=drive_link).
 
-### RMC - Schedule de Brilho
-- Arquivos do Schedule de Brilho [Baixe Aqui](https://drive.google.com/drive/folders/1o6KvNU6mq2aUJJmiKa34pw9K17uR0dFl?usp=drive_link).
+## JSON
+
+### ZGS126 Ethernet 
+- Arquivo JSON [Baixe Aqui](https://drive.google.com/file/d/17CuiAM5AaTIgh75srpR2j4Uxf9ir4ocM/view?usp=drive_link).
+
+## Programas
 
 ### Software AD Board e Driver
 - Arquivos do Software AD Board e Driver [Baixe Aqui](https://drive.google.com/drive/folders/1BPQBd0VUpNbndtWq1wBrJSynjWqd4FkU?usp=drive_link).
@@ -36,10 +42,4 @@ Lista de links úteis para a realização do treinamento e repositórios com os 
 - Arquivos do RTD Customer Tool [Baixe Aqui](https://drive.google.com/drive/folders/1G731JCWcYKL3zHtpRGDOoBdZKHaQoDM2?usp=drive_link).
 
 
-### RMC V-1.30
-- Arquivo do firmware RMC V-1.30 [Baixe Aqui](https://github.com/alexabreup/boe-elt/blob/main/RMC_ZGS126_v130/ZGS126_Upgrade.bin).
-
-## JSON
-
-### ZGS126 Ethernet 
-- Arquivo JSON [Baixe Aqui](https://drive.google.com/file/d/17CuiAM5AaTIgh75srpR2j4Uxf9ir4ocM/view?usp=drive_link).
+ 

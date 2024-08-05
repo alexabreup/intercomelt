@@ -95,3 +95,21 @@ Para MUB Face Dupla é necessário atualizar as duas AD Board
 :::caution
 Lembre: só atualizamos a placa FAN V – 1!
 :::
+
+## Arquivos para atualizações
+
+## Firmwares & Drivers
+
+### AD V-51
+- Driver da placa AD versão 51 [Baixe Aqui](https://drive.google.com/file/d/1pSgIIf07O19inZ3hRe8uSjHr-RWk9whD/view?usp=drive_link).
+
+### Fan V-1.20
+- Binário da placa contoladora dos Fans versão 1.20 [Baixe Aqui](https://drive.google.com/file/d/16UKcpfm5HLF-38s1IjK8fxzpA7fASouC/view?usp=drive_link).
+
+### RMC V-1.30
+- Arquivo do firmware RMC V-1.30 [Baixe Aqui](https://drive.google.com/file/d/1tTrHzgc8wtR9EaQq5sWgqR5szZc0vjH2/view?usp=drive_link).
+
+## JSON
+
+### ZGS126 Ethernet 
+- Arquivo JSON [Baixe Aqui](https://drive.google.com/file/d/17CuiAM5AaTIgh75srpR2j4Uxf9ir4ocM/view?usp=drive_link).
