@@ -24,10 +24,10 @@ São Paulo, SP  - 16/07/2024</i>
 
 Esse guia tem a função de preparar os colaboradores da Eletromidia para realizarem as atualizações e operações com os programas utilizados nas placas BOE utilizados nos MUBs.
 
-<b><u>Dividimos esse guia em 4 partes seqüenciais, iniciando pelo:</b></u>
+<b><u>Dividimos esse guia em 4 partes sequenciais, iniciando pelo:</b></u>
 
 1. Manual de atualização BOE para MUB
-2. Configurações dos modens Claro e Vivo
+2. Configurações dos modems Claro e Vivo
 3. Utilização do RTD Customer Tool
 4. Utilização TCP Server Test
 5. Utilização do programa Interface de Comandos Eletromidia 
@@ -40,7 +40,7 @@ Esse manual apresenta as placas utilizadas no MUB, os itens necessários para at
 
 Apresentamos os manuais são fundamentais para compreender e acessar com êxito a rede Wi Fi das placas BOE.
 
-Começando pela configuração de acesso, que apresenta os parâmetros para configurar a conexão com a placa RMC via o Kit Embarcado de Acesso Remoto (Embedded Device Remote Access Kit), passando para as configurações dos modens das operadoras Claro e Vivo. Cada operadora tem suas particularidades e seguindo as instruções você consiguirá realizar essa operação com sucesso.
+Começando pela configuração de acesso, que apresenta os parâmetros para configurar a conexão com a placa RMC via o Kit Embarcado de Acesso Remoto (Embedded Device Remote Access Kit), passando para as configurações dos modens das operadoras Claro e Vivo. Cada operadora tem suas particularidades e seguindo as instruções você conseguirá realizar essa operação com sucesso.
 
 #### O RTD Customer Tool
 

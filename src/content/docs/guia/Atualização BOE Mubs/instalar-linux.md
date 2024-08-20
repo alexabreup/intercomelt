@@ -17,9 +17,9 @@ O arquivo binário <b>IOTdeploy.bin</b> funciona apenas para o sistema operacion
 Insira o pendrive com o arquivo do programa.
 
 
-<b>1. Inserir pendrive</b>
+<b>1. Inserir pen drive</b>
 
-<b>2. Abrir o Thunar (icone de arquivo/armario) pela barra de tarefas</b>
+<b>2. Abrir o Thunar (ícone de arquivo/armário) pela barra de tarefas</b>
 ![](https://i.imgur.com/gI3UJHa.png)
 
 <b>3. Clicar a esquerda em Devices/PROJETOS</b>

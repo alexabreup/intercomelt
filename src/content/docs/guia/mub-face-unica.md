@@ -23,7 +23,7 @@ sidebar:
 
 | Legenda     | Tradução |
 | ----------- | ----------- |
-| Light-sensivit  | Sensibilidade à luz  |
+| Light-sensitivity  | Sensibilidade à luz  |
 | LCD screen  | Tela LCD   |
 | Antenna | Antena |
 | Air-out | Saída de Ar |

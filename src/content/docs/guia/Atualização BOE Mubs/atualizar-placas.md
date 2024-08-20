@@ -24,7 +24,7 @@ São Paulo, SP  - 16/07/2024</i>
 
 - Placa – FAN – Controle das ventoinhas (Fans), leitura dos sensores de temperatura, controle
 da alimentação da AD Board.
-- Placa – RMC – Seta as vareáveis de controle da FAN e AD, faz a leitura de sensores e controle do MUB.
+- Placa – RMC – Seta as variáveis de controle da FAN e AD, faz a leitura de sensores e controle do MUB.
 - Placa – AD Board – Controle / Funcionamento da tela.
 
 ![Placas do MUB](https://i.imgur.com/Hx3J3vF.png)
