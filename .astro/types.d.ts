@@ -234,23 +234,23 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"guia/Os Modens/configurar-acesso.md": {
-	id: "guia/Os Modens/configurar-acesso.md";
-  slug: "guia/os-modens/configurar-acesso";
+"guia/Os Modems/configurar-acesso.md": {
+	id: "guia/Os Modems/configurar-acesso.md";
+  slug: "guia/os-modems/configurar-acesso";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"guia/Os Modens/modem-claro.md": {
-	id: "guia/Os Modens/modem-claro.md";
-  slug: "guia/os-modens/modem-claro";
+"guia/Os Modems/modem-claro.md": {
+	id: "guia/Os Modems/modem-claro.md";
+  slug: "guia/os-modems/modem-claro";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"guia/Os Modens/modem-vivo.md": {
-	id: "guia/Os Modens/modem-vivo.md";
-  slug: "guia/os-modens/modem-vivo";
+"guia/Os Modems/modem-vivo.md": {
+	id: "guia/Os Modems/modem-vivo.md";
+  slug: "guia/os-modems/modem-vivo";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">

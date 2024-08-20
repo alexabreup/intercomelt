@@ -32,11 +32,11 @@ Leia esse documento atentamente antes de acessar e alterar o Kit Embarcado de Ac
 
 Para poder ter acesso ao painel de controle, é necessário primeiramente selecionar no seu notebook a rede na qual está conectado o MUB.
 
-Existem 2 tipos de modens que operam dentro dos MUBs, um modelo é da empresa Claro e o outro é da empresa Vivo.
+Existem 2 tipos de modems que operam dentro dos MUBs, um modelo é da empresa Claro e o outro é da empresa Vivo.
 
-Os modens da operadora Claro operam no ip 192.168.0.237, o 0 indica que é um aparelho dessa empresa.
+Os modems da operadora Claro operam no ip 192.168.0.237, o 0 indica que é um aparelho dessa empresa.
 
-Os modens da operadora Vivo operam no ip 192.168.1.237, sendo o número 1 indicativo que é um aparelho dessa empresa.
+Os modems da operadora Vivo operam no ip 192.168.1.237, sendo o número 1 indicativo que é um aparelho dessa empresa.
 
 Conecte-se ao Wi Fi do Mub e acesse utilizando a senha devida para conseguir completar a conexão. 
 

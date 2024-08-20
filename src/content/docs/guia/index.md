@@ -36,11 +36,11 @@ Esse guia tem a função de preparar os colaboradores da Eletromidia para realiz
 
 Esse manual apresenta as placas utilizadas no MUB, os itens necessários para atualizações e a sequência de atualização do protocolo e firmware. Esse é o primeiro passo para entender o funcionamento do processo de atualização e verificação de funcionamento das placas.
 
-#### Os modens e as configurações das operadoras Claro e VIvo
+#### Os modems e as configurações das operadoras Claro e VIvo
 
 Apresentamos os manuais são fundamentais para compreender e acessar com êxito a rede Wi Fi das placas BOE.
 
-Começando pela configuração de acesso, que apresenta os parâmetros para configurar a conexão com a placa RMC via o Kit Embarcado de Acesso Remoto (Embedded Device Remote Access Kit), passando para as configurações dos modens das operadoras Claro e Vivo. Cada operadora tem suas particularidades e seguindo as instruções você conseguirá realizar essa operação com sucesso.
+Começando pela configuração de acesso, que apresenta os parâmetros para configurar a conexão com a placa RMC via o Kit Embarcado de Acesso Remoto (Embedded Device Remote Access Kit), passando para as configurações dos modems das operadoras Claro e Vivo. Cada operadora tem suas particularidades e seguindo as instruções você conseguirá realizar essa operação com sucesso.
 
 #### O RTD Customer Tool
 
