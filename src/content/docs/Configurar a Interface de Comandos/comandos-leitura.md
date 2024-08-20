@@ -9,7 +9,7 @@ Leia atentamente antes de operar o aplicativo de comando e leitura, sempre utili
  
 ## Selecionando o comando de leitura
 
-Nesse modo, estao disponíveis ao todo 15 comandos de leitura listados abaixo:
+Neste modo, estao disponíveis ao todo 15 comandos de leitura listados abaixo:
 
 | Comandos de Leitura | Função | 
 |----------|----------|

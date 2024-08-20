@@ -13,10 +13,6 @@ Lista de links úteis para a realização do treinamento e repositórios com os 
 ### TCP Server Test
 - O programa para acessar, configurar e ler a placa RMC [Baixe Aqui](https://drive.google.com/file/d/1jiWvUKo4-vqySHiBluZJgpN4X_CW3gsp/view?usp=drive_link).
 
-### RTD Customer Tool
-- O programa para atualizar o firmware da placa AD [Baixe Aqui](https://drive.google.com/drive/folders/1G731JCWcYKL3zHtpRGDOoBdZKHaQoDM2?usp=drive_link).
-
-
 ## Firmwares & Drivers
 
 ### AD V-51

@@ -32,7 +32,7 @@ Após os ajustes de horários, é possível enviar o schedule através do botão
 
 ## Controle do Brilho
 
-O controle do brilho permite que seja através da régua de ajuste permite que seja alterado em tempo real, com as opções de seleção apresentadas na tabela abaixo.
+O controle do brilho permite o ajuste da luminosidade da tela em tempo real, com as opções de seleção apresentadas na tabela abaixo.
 
 | Seleção de Telas: |
 |----------|
@@ -41,7 +41,7 @@ O controle do brilho permite que seja através da régua de ajuste permite que s
 | Telas 1 e 2 |
 
  
-![Interface de Comandos Eletromidia](https://intercomelt.netlify.app/assets/images/ajuste-brilho-schedule-2.png)
+ 
 
 
 Após os ajustes do brilho através da régua deslizadora de porcentagem (slider), os valores configurados aparecem na parte inferior da tela, apresentando:

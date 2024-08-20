@@ -14,7 +14,7 @@ sidebar:
 
  
 :::tip[Importante]
-Leia esse documento atentamente antes de iniciar as suas atividades com as atualizações das placas BOE e dos MUBs, sempre o utilizando esse material para futuras consultas. A documentação apresentada nesse guia estará em constante atualização.
+Leia esse documento atentamente antes de iniciar as suas atividades com as atualizações das placas BOE e dos MUBs, sempre o utilizando esse material para futuras consultas. A documentação apresentada Neste guia estará em constante atualização.
 
 <i>Equipe do Departamento de Hardware Eletromidia. 
 São Paulo, SP  - 16/07/2024</i>

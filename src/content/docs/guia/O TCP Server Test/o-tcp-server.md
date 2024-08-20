@@ -59,7 +59,7 @@ Um exemplo que pode ajudar a ilustrar a executar um comando de leitura, seria o 
 
 Ao inserirmos o hexadecimal no Custom Data (1 ou 2), aparecerá na sequência o <ACK> (termo que significa acknowledgement, reconhecimento em português).
 
-Nesse caso, recebemos o <b><ACK>: ff 55 06 39 01 01 00 00 <b><font color="red">00</font></b>
+Neste caso, recebemos o <b><ACK>: ff 55 06 39 01 01 00 00 <b><font color="red">00</font></b>
  3b</b>, que representa o funcionamento normal da tela 01 (<b><font color="red">value: 00 - power on</font></b>). Se neste caso o resultado fosse <b><font color="red">01</font></b> ao invés de <b><font color="red">00</font></b>, indicaria o não funcionamento da tela (<b><font color="red">value: 01 - power off</font></b>).
 
 ### 3. A caixa de texto “Receive”

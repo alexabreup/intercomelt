@@ -12,7 +12,7 @@ sidebar:
 [comment]: <> (Data : 17/06/2024)
 
 :::tip[Leia com atenção!]
-Leia esse documento atentamente antes de acessar e alterar modem da operadora Vivo, e sempre o utilize para futuras consultas.
+Leia esse documento atentamente antes de acessar e alterar o modem da operadora Claro e sempre o utilize para futuras consultas.
 :::
 
 ### 1.Conhecendo o Modem Vivo BC-4GMCPGa 

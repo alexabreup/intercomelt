@@ -43,7 +43,7 @@ HDMI).
 ![Como realizar a preparação para atualização da placa AD usando o RTD Customer Tool](https://i.imgur.com/q8cNG8N.png)
 
 :::caution
-OBS: Para MUB Fase Dupla é
+OBS: Para MUB Face Dupla é
 necessário atualizar as duas
 AD Board
 :::

@@ -8,9 +8,9 @@ sidebar:
 Leia atentamente antes de operar o aplicativo de comando e leitura, sempre utilizando para futuras consultas.
 
  
-## Selecionando o comando de configuraçãso
+## Selecionando o comando de configuração
 
-Nesse modo, estão disponíveis ao todo 30 comandos de configuração listados abaixo:
+Neste modo, estão disponíveis ao todo 30 comandos de configuração listados abaixo:
 
 | Comandos de Configuração | Função | 
 |----------|----------|
