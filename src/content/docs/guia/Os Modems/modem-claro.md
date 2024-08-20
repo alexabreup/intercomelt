@@ -12,7 +12,7 @@ sidebar:
 [comment]: <> (Data : 17/06/2024)
 
 :::tip[Leia com atenção!]
-Leia esse documento atentamente antes de acessar e alterar modem da operadora Claro, e sempre o utilize para futuras consultas.
+Leia esse documento atentamente antes de acessar e alterar o modem da operadora Claro e sempre o utilize para futuras consultas.
 :::
 
 ![Reconhecimento do Modem Claro MF286C](https://i.imgur.com/eWIdinA.png)
@@ -33,11 +33,9 @@ Um modem roteador é essencial para conectar seus dispositivos à internet, seja
  
 ### 2.Dados técnicos
 
-Com o access point da Blu-Castle você pode interconectar redes sem fio, conseguindo uma conexão estável e segura entre a rede e o dispositivo de destino.
+O aparelho trabalha com as frequências: 4G LTE: 2100 (B1) /1800 (B3) /2600 (B7) /700 (B28) MHz / 3G UMTS: 2100(B1) /850 (B5) MHz / 2G GSM: 850/900/1800/1900 MHz.
 
-Frequências: 4G LTE: 2100 (B1) /1800 (B3) /2600 (B7) /700 (B28) MHz / 3G UMTS: 2100(B1) /850 (B5) MHz / 2G GSM: 850/900/1800/1900MHGz.
-
-Capacidade de conectar até 32 dispositivo na rede Wi-fi e até 4 dispositivos via conector RJ45. Permite conectar até 2 antenas externas para melhorar o sinal de rede móvel.
+Capacidade de conectar até 32 dispositivos na rede Wi-fi e até 4 dispositivos via conector RJ45. Permite conectar até 2 antenas externas para melhorar o sinal de rede móvel.
 
 ### 3.Indicadores do modem MF286C
 
