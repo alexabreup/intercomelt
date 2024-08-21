@@ -22,7 +22,7 @@ Por dentro da documentação de treinamento.
 │   │   └── O programa RTD Customer Tool
 │   ├── O TCP Server Test/
 │   │   └── O programa TCP Server Test
-└── 
+└──
 ```
 ## 🧞 Comandos para funcionamento
 
@@ -37,7 +37,7 @@ Todos os comandos que são necessários para operar o programa:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
-## 👀 Sobre nós
+## 📟 Sobre nós
 
 Produzido pelo Departamento de Projetos / Hardware, jun. 2024
  
