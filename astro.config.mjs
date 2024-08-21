@@ -25,7 +25,7 @@ export default defineConfig({
 			social: {
 				github: 'https://github.com/',
 			},
-			title: 'Depto.Hardware/Treinamento BOE',
+			title: 'Departamento de Projetos',
 			locales: {
 			  root: {
 				label: 'Português do Brasil',
