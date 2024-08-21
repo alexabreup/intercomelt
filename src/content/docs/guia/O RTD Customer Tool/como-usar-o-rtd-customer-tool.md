@@ -23,11 +23,11 @@ Leia esse documento atentamente antes de acessar operar o programa RTD Customer 
 
 :::note
 <b>Antes de atualizar o firmware, prepare os seguintes itens:</b>
-- PC designado para esse trabalho.
-- Programa de atualização de firmware relevante - RTD Customer Tool V3.5 ou revisão superior.
+- PC designado para esse trabalho
+- Programa de atualização de firmware relevante - RTD Customer Tool V3.5 ou revisão superior
 - Placa de programação externa (P/N 411102600-3)
-- Cabo HDMI.
-- Cabo USB (um lado tipo A conectado ao PC e outro lado mini-USB conectado à placa de programação).
+- Cabo HDMI
+- Cabo USB (um lado tipo A conectado ao PC e outro lado mini-USB conectado à placa de programação)
 - Arquivo bin e firmwares 
 
 :::
@@ -38,7 +38,7 @@ Leia esse documento atentamente antes de acessar operar o programa RTD Customer 
 <b><u>Etapa 1.:</b></u> Conecte a AD Board no PC usando a placa programadora e os respectivos cabos (USB /
 HDMI).
 
-<b><u>Etapa 2.:</b></u> Desconecte o cabo de comunicação da Placa FAN com a RMC, Veja no próximo slide.
+<b><u>Etapa 2.:</b></u> Desconecte o cabo de comunicação da Placa FAN com a RMC.
 
 ![Como realizar a preparação para atualização da placa AD usando o RTD Customer Tool](https://i.imgur.com/q8cNG8N.png)
 
@@ -61,4 +61,4 @@ Veja o diagrama abaixo:
 
 <b><u>Etapa 3.:</b></u> Na primeira execução do programa “RTD Customer Tool”, instale o USB
 
-Driver disponível na página de Referências/Links ou escolhe a “Opção de comunicação” → pressione o botão “Instalar” na seção do driver como retratado na imagem abaixo.
+ 

@@ -24,22 +24,22 @@ São Paulo, SP  - 16/07/2024</i>
 
 - Placa – FAN – Controle das ventoinhas (Fans), leitura dos sensores de temperatura, controle
 da alimentação da AD Board.
-- Placa – RMC – Seta as variáveis de controle da FAN e AD, faz a leitura de sensores e controle do MUB.
+- Placa – RMC – Configura as variáveis de controle da FAN e AD, faz a leitura de sensores e controle do MUB.
 - Placa – AD Board – Controle / Funcionamento da tela.
 
 ![Placas do MUB](https://i.imgur.com/Hx3J3vF.png)
 
 ### Conhecendo a placa Fan
 
-Placa Fan onde sua finalidade é controlar a velocidade dos Fans (ventoinhas), monitorando
-a temperatura, se comunica com a RMC através da porta RS485 para envio e recebimento
-de dados / controle.
+Placa Fan tem como finalidade controlar a velocidade dos fans (ventoinhas), monitorando
+a temperatura do equipamente, e se comunica com a RMC através da porta RS485 para envio e recebimento
+de dados e controle.
 
 ![A placa Fan](https://i.imgur.com/2AIMfR5.png)
 
 ### Reconhecendo as placas Fan v.1 e v.2
 :::caution
-Só atualizamos a placa FAN V – 1! Nunca atualize a placa FAN V -2 !
+Só atualizamos a placa FAN versão 1 (v1) ! Nunca atualize a placa FAN na versão 2 (v2) !
 :::
 
 #### A placa fan V.1
@@ -50,21 +50,19 @@ Só atualizamos a placa FAN V – 1! Nunca atualize a placa FAN V -2 !
 ![A placa fan V.2](https://i.imgur.com/tn2Hhav.jpeg)
 
 ### Conhecendo a Placa RMC V-1
-Placa RMC, onde sua finalidade é controlar e monitorar os sensores e funcionalidades da
-tela/MUB.
+Placa RMC tem como finalidade controlar e monitorar os sensores e funcionalidades da tela do MUB.
 
 ![Placa RMC V-1](https://i.imgur.com/2mA3FzW.png)
 
 
 ### Conhecendo a Placa AD Board
 
-A placa AD Board é uma solução de controlador de exibição altamente integrada para uso em tela
-LCD 4K UHD, vídeo digital de alta qualidade e imagens gráficas de computador no painel LCD. Esta série de produtos suporta resoluções de até (4096 x 2160) DP. Fornece portas de entrada de sinal completas, incluindo HDMI / DP.
+A placa AD Board é um controlador de exibição integrada a tela LCD 4K UHD, que gera vídeo digital de alta qualidade e imagens gráficas de computador no painel LCD. Esta série de produtos suporta resoluções de até 4096 x 2160 dpi. Fornece portas de entrada de sinal completas, incluindo HDMI.
 
 ![Placa AD Board](https://i.imgur.com/WJRCVtK.png)
 
 :::caution
-Para MUB Face Dupla é necessário atualizar as duas AD Board
+Para MUB Face Dupla é necessário atualizar as duas placas AD Boards
 :::
 
 ### Lista de itens necessário para atualizações
@@ -72,11 +70,11 @@ Para MUB Face Dupla é necessário atualizar as duas AD Board
 | Número | Item | Link |
 | --------------- | --------------- | --------------- |
 | 1 | Cabo USB A 2.0 para USB B | | 
-| 2 | Programador ISP-USB Placa driver para atualização do firmware da AD Board | 
-| 3 | Notebook com a pasta contendo os executável do firmwares, driver e Arquivo Bin | [Baixe Aqui](https://drive.google.com/drive/folders/1F8PSvcKt0IocAnWAkZlk57xYDdVJtFai?usp=drive_link) |
-| 4 | Pen drive contendo o arquivo JSON (zgs126_eth_para.json) | [Baixe Aqui](https://drive.google.com/drive/folders/1F8PSvcKt0IocAnWAkZlk57xYDdVJtFai?usp=drive_link) | 
-| 5 | Pen drive contendo o arquivo Bin (ZGS126_Upgrade.bin)| [Baixe Aqui](https://drive.google.com/drive/folders/1F8PSvcKt0IocAnWAkZlk57xYDdVJtFai?usp=drive_link) |
-| 6 | Pen drive contendo o arquivo (fan_ctrl_DS_v1.2.0.20230210.bin)| [Baixe Aqui](https://drive.google.com/drive/folders/1F8PSvcKt0IocAnWAkZlk57xYDdVJtFai?usp=drive_link) |
+| 2 | Programador ISP-USB da placa driver para atualização do firmware da AD Board | 
+| 3 | Notebook com a pasta contendo os executáveis do firmwares, driver e arquivo bin 
+| 4 | Pen drive contendo o arquivo JSON (zgs126_eth_para.json) | [Baixe Aqui](https://drive.google.com/drive/folders/1CMxiCqTR2AgFmQ1LFTlh1TRl-Qow18X0?usp=drive_link) | 
+| 5 | Pen drive contendo o arquivo bin (ZGS126_Upgrade.bin)| [Baixe Aqui](https://drive.google.com/drive/folders/1aSIM5SkNw2XFQyDY34FqCN9aPBG8erE3?usp=drive_link) |
+| 6 | Pen drive contendo o arquivo (fan_ctrl_DS_v1.2.0.20230210.bin)| [Baixe Aqui](https://drive.google.com/drive/folders/1_jb5Utj2UUmLkMQDTghFNHKMNO-X_XDh?usp=drive_link) |
 
 
 

@@ -34,9 +34,9 @@ Para poder ter acesso ao painel de controle, é necessário primeiramente seleci
 
 Existem 2 tipos de modems que operam dentro dos MUBs, um modelo é da empresa Claro e o outro é da empresa Vivo.
 
-Os modems da operadora Claro operam no ip 192.168.0.237, o 0 indica que é um aparelho dessa empresa.
+<b>Os modems da operadora Claro operam no ip 192.168.0.237, o 0 indica que é um aparelho dessa empresa.</b>
 
-Os modems da operadora Vivo operam no ip 192.168.1.237, sendo o número 1 indicativo que é um aparelho dessa empresa.
+<b>Os modems da operadora Vivo operam no ip 192.168.1.237, sendo o número 1 indicativo que é um aparelho dessa empresa.</b>
 
 Conecte-se ao Wi Fi do Mub e acesse utilizando a senha devida para conseguir completar a conexão. 
 
@@ -62,7 +62,16 @@ Será necessário realizar as alterações em apenas algumas partes do painel de
 São elas:
 
 #### 3.1. Network Protocol
-Sempre ele deve estar selecionado em TCP. Nunca altere para UDP.
+Sempre ele deve estar selecionado em <b>TCP</b>. Nunca altere para UDP.
+
+#### 3.2. Server Port
+O campo Server Port tem que está configurado para o número <b>55502</b>.
+
+![O programa TCP Server Test](https://i.imgur.com/pqFRuaw.png)
+
+Insira o número dessa porta e aperte o botão Connect.
+
+![Insira o número 55502 e pressione Connect](https://i.imgur.com/fcuLYA9.jpeg)
 
 #### 2.2. Server IP:
 Esse é o endereço encontrado no seu notebook via o IPCONFIG no terminal de prompt de comandos. Copie e cole.

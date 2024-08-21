@@ -57,7 +57,7 @@ A Interface Web do Usuário (Web UI) permite que você configure o Box usando se
 
 ![](https://i.imgur.com/6hru0BE.png)
 
-<b><u>Etapa 2.:</b></u>  Abra seu navegador da web e digite 192.168.1.1 no campo de endereço web.
+<b><u>Etapa 2.:</b></u>  Abra seu navegador da web e digite <b>192.168.1.1</b> no campo de endereço web.
 
 ![](https://i.imgur.com/84Mst3v.png)
 
@@ -144,7 +144,7 @@ sistema operacional) e encontre o endereço IPv4 listado ao lado de "Endereço I
 <b><u>Etapa 1.:</b></u> Certifique-se que a RMC esteja conectada ao Box através do cabo
 de rede Ethernet.
 
-<b><u>Etapa 2.:</b></u> Abra seu navegador da web e digite 192.168.1.237 no campo de
+<b><u>Etapa 2.:</b></u> Abra seu navegador da web e digite <b>192.168.1.237</b> no campo de
 endereço web.
 
 <b><u>Etapa 3.:</b></u>A página de Interface Web do Usuário TCP será exibida.

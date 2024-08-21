@@ -74,7 +74,7 @@ web.
 <b><u>Etapa 1.:</b></u> Certifique-se que o computador que você usa está conectado ao
 Box através do cabo de rede Ethernet ou através da rede Wi-Fi.
 
-<b><u>Etapa 2.:</b></u> Abra seu navegador da web e digite 192.168.0.1 no campo de
+<b><u>Etapa 2.:</b></u> Abra seu navegador da web e digite <b>192.168.0.1</b> no campo de
 endereço web.
 
 <b><u>Etapa 3.:</b></u> Uma tela de autenticação será exibida. Use o nome de usuário e
@@ -146,7 +146,7 @@ sistema operacional) e encontre o endereço IPv4 listado ao lado de "Endereço I
 <b><u>Etapa 1.:</b></u> Certifique-se que a RMC esteja conectada ao Box através do cabo
 de rede Ethernet.
 
-<b><u>Etapa 2.:</b></u> Abra seu navegador da web e digite 192.168.1.237 no campo de
+<b><u>Etapa 2.:</b></u> Abra seu navegador da web e digite <b>192.168.0.237</b> no campo de
 endereço web.
 
 <b><u>Etapa 3.:</b></u>A página de Interface Web do Usuário TCP será exibida.

@@ -30,7 +30,6 @@ Neste modo, estao disponíveis ao todo 15 comandos de leitura listados abaixo:
 | Backlight - Tela 2 | Informa o status do backlight na Tela 2 |
 | Backlight - Telas 1 e 2 | Informa o status do backlight nas Telas 1 e 2 |
 
-No caso ilustrado abaixo, vemos a seleção do comando de configuração.
+
  
 
-![Interface de Comandos Eletromidia](https://intercomelt.netlify.app/assets/images/comando-config-1.jpg)
