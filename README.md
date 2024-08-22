@@ -37,7 +37,7 @@ Todos os comandos que são necessários para operar o programa:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
-## 📟 Sobre nós
+## ⚡ Sobre nós 🤖
 
 Produzido pelo Departamento de Projetos / Hardware, jun. 2024
  
