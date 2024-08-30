@@ -8,7 +8,7 @@ sidebar:
 [comment]: <> (Criado por Alexandre de Abreu - alexandre.abreu@eletromidia.com.br)
 [comment]: <> (Data : 17/06/2024)
 
-A primeira versão do programa Interface de Comandos Eletromidia está disponível no formato .exe, para Windows 10 e 11. Ele pode ser baixado através do [link](#).
+A primeira versão do programa Interface de Comandos Eletromidia está disponível no formato .exe, para Windows 10 e 11. 
 
 ## Baixe o arquivo Interface_RMC_V6_2.exe
 
