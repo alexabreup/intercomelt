@@ -2,7 +2,7 @@
 title: Instalação no Windows
 description: Como instalar o programa Interface de Comandos Eletromidia no Windows
 sidebar:
-    order: 6
+    order: 9
 ---
 [comment]: <> (Documentação online para o aplicativo Interface de Comando Eletromidia)
 [comment]: <> (Criado por Alexandre de Abreu - alexandre.abreu@eletromidia.com.br)

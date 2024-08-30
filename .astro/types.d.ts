@@ -143,16 +143,16 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"Configurar a Interface de Comandos/Controle dos Relés/reles.md": {
-	id: "Configurar a Interface de Comandos/Controle dos Relés/reles.md";
-  slug: "configurar-a-interface-de-comandos/controle-dos-relés/reles";
+"Configurar a Interface de Comandos/botoes.md": {
+	id: "Configurar a Interface de Comandos/botoes.md";
+  slug: "configurar-a-interface-de-comandos/botoes";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"Configurar a Interface de Comandos/Schedule/configure-o-schedule.md": {
-	id: "Configurar a Interface de Comandos/Schedule/configure-o-schedule.md";
-  slug: "configurar-a-interface-de-comandos/schedule/configure-o-schedule";
+"Configurar a Interface de Comandos/campos.md": {
+	id: "Configurar a Interface de Comandos/campos.md";
+  slug: "configurar-a-interface-de-comandos/campos";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
@@ -160,13 +160,6 @@ declare module 'astro:content' {
 "Configurar a Interface de Comandos/comandos-configurar.md": {
 	id: "Configurar a Interface de Comandos/comandos-configurar.md";
   slug: "configurar-a-interface-de-comandos/comandos-configurar";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"Configurar a Interface de Comandos/comandos-leitura.md": {
-	id: "Configurar a Interface de Comandos/comandos-leitura.md";
-  slug: "configurar-a-interface-de-comandos/comandos-leitura";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
@@ -213,13 +206,6 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"guia/Atualização BOE Mubs/links-arquivos.md": {
-	id: "guia/Atualização BOE Mubs/links-arquivos.md";
-  slug: "guia/atualização-boe-mubs/links-arquivos";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
 "guia/O RTD Customer Tool/como-usar-o-rtd-customer-tool.md": {
 	id: "guia/O RTD Customer Tool/como-usar-o-rtd-customer-tool.md";
   slug: "guia/o-rtd-customer-tool/como-usar-o-rtd-customer-tool";
@@ -258,13 +244,6 @@ declare module 'astro:content' {
 "guia/index.md": {
 	id: "guia/index.md";
   slug: "guia";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"guia/mub-face-unica.md": {
-	id: "guia/mub-face-unica.md";
-  slug: "guia/mub-face-unica";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">

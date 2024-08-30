@@ -1,9 +1,9 @@
 ---
-title: O Painel de Comandos
+title: Interface de Comandos BOE
 description: Conheça a interface de comandos Eletromidia
 
 sidebar:
-    order: 5
+    order: 1
  
 ---
 
@@ -13,39 +13,55 @@ sidebar:
 
 Leia atentamente antes de operar o aplicativo interface de comandos e sempre utilize para futuras consultas.
 
-![Interface de Comandos Eletromidia](https://intercomelt.netlify.app/assets/images/interface-de-comandos.png)
  
-O painel de controle está dividido em 5 áreas:
+ 
+## Versões Atuais
+- Interface de Comandos BOE - Versão 6.2
+- Configuração de Brilho - Versão 4.1
+- Medições - Versão 1.2
+- RMC - Versão 1.30
+- Fan Controller - Versão 120_20230210
+- ADBoard - Versão 051
 
-1. Configurar Schedule
-2. Comandos
-3. Controle dos Relés
-4. Tipo de Comando: configuração
-5. Endereço de IP e Porta
 
-### 1. Configurar Schedule
+## Comandos
 
-É a área de configuração de agendamento, permitindo a seleção de até 5 horários diferentes durante o dia para a alteração do brilho das telas dos displays.
+### Configuração
+Comandos para envio com a finalidade de alterar configurações do equipamento como, por exemplo, a porta de entrada da tela, ligar ou desligar a tela, etc. Ao clicar em “Comandos de Configuração” os comandos podem ser selecionados ao clicar em “Selecionar o Comando” e o Tipo de Comando será alterado para Configuração.
 
-### 2. Comandos
+### Leitura
+Comandos para envio com a finalidade de ler as configurações do equipamento como, por exemplo, em qual porta de entrada a tela está ligada, se a tela está ligada ou desligada, etc. Ao clicar em “Comandos de Leitura” os comandos podem ser selecionados ao clicar em “Selecionar o Comando” e o Tipo de Comando será alterado para Leitura.
 
-#### 2.1. Comandos de Configurações
-É a área onde são definidos os comandos de configuração ou de leitura dos equipamentos. No comandos de configurações, é permitido a seleção de até 30 parâmetros como o(s) estado(s) da(s) tela(s) (ligado e desligado), o input source (fonte de entrada), brightness (brilho), backlight e relés (relays ligados ou desligados).
 
-#### 2.2. Comandos de Leituras
-É a área onde são definidos os comandos de leituras dos equipamentos, permitido a seleção de até 15 parâmetros como o estado da tela(s) (telas 1 e 2), o input source (telas 1 e 2), brightness (brilhos das telas 1 e 2), backlight (telas 1 e 2) e relés (relays ligados ou desligados).
+![Interface de Comandos Eletromidia](https://i.imgur.com/j0ahrPW.png)
 
-### 3. Controle dos Relés
-É a área onde os relés da régua de acionamento Smart Ruler podem ser controlados.
+## Controle de Relay
+A placa RMC possui 6 relés, sendo eles quatro de estado sólido e dois mecânicos. Esse quadro controla os dois mecânicos numerados de 0 e 1. É necessário clicar na opção desejada e em seguida clicar em “Enviar Comando”, botão descrito em “Botões”.
+Os outros relés podem ser comandados pelo quadro de “Comandos” em “Comandos de configuração”.
 
-### 4. Tipo de Comando
+![Interface de Comandos Eletromidia](https://i.imgur.com/3ZvAiwl.png)
 
-#### 4.1. Configuração
-É o modo onde as configurações via comandos é possível ser aplicado via digitação dos códigos por hexadecimais. 
+## Tipo de Comando
+### Comando
+Este quadro mostra ao usuário o comando que será enviado para a placa RMC quando selecionado o comando no quadro “Comandos”
+### ACK (resposta)
+Este quadro mostra inicialmente qual o ACK esperado pelo comando selecionado e, ao clicar em “Enviar comando”, mostra o ACK recebido pela RMC. O quadro ainda apresenta algumas incongruências que necessitam de correção.
 
-#### 4.2. Leitura
-É o modo de onde é possivel receber as informacoes dos 
+ 
+![Interface de Comandos Eletromidia](https://i.imgur.com/DgoqmY9.png)
 
-### 5. Endereço de IP e Porta
-Os elementos de IP Address (Endereço de IP) e Port (Porta Serial) permitem a seleção do endereço do dispositivo a ser configurado e lido.
+## Botões
+### Configurar Brilho
+Este botão abre uma nova página para controle do brilho do equipamento. A página possui dois segmentos, Schedule e Brilho, descritos a seguir.
 
+### Schedule
+O segmento Schedule envia um comando para definir um agendamento de brilhos. O segmento possui cinco horários possíveis de controle, sendo necessário o preenchimento de todos os campos para o funcionamento (se necessário apenas quatro horários, copiar um horário para o quinto campo).
+
+O campo de horário deve ser preenchido com o horário que o brilho deve ser alterado, sendo de 00:00 até 23:59. O formato obrigatoriamente deve ser hh:mm.
+
+O campo de Porcentagem deve ser preenchido com a porcentagem do brilho que vai ser alterado no horário definido. O formato deve ser apenas o número de 1 a 100.
+
+O botão “Enviar Schedule” envia todos os comandos necessários para que o schedule seja ativado de modo correto.
+
+ 
+![Interface de Comandos Eletromidia](https://i.imgur.com/7nPDam0.png)
