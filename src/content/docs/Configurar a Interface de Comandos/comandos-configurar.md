@@ -59,7 +59,6 @@ A linha tracejada indica o limiar pré definido de cada dado, por hora o valor e
 | Potência Efetiva: | 1000W  |
 | Potência Reativa: | 500VAr |
 
-https://i.imgur.com/NYBj60i.png
 
 ![Medição Elétrica](https://i.imgur.com/NYBj60i.png)
 

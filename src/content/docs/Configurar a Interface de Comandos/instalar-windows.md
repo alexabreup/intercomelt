@@ -10,9 +10,13 @@ sidebar:
 
 A primeira versão do programa Interface de Comandos Eletromidia está disponível no formato .exe, para Windows 10 e 11. Ele pode ser baixado através do [link](#).
 
-## Baixe o arquivo intercomelt.exe
+## Baixe o arquivo Interface_RMC_V6_2.exe
 
-Utilize o link acima marcado para baixar o software Interface de Comando Eletromidia v.1. Clique no arquivo .exe e automaticamente ele já estará funcionando no seu notebook ou pc. 
+Utilize o link marcado para baixar o software Interface de Comando Eletromidia v.1. Clique no arquivo .exe e automaticamente ele já estará funcionando no seu notebook ou pc. 
+ 
+
+<button type="button"><a href="https://drive.google.com/file/d/1reeI2inHfaJqs_VBb1j0o9lVo6PCGzdd/view?usp=sharing" target="_blank"><b>Clique aqui para baixar o programa>></b></a></button>
+
 
 ## Acesso na rede Wi-Fi do dispositivo a ser comandado
 
