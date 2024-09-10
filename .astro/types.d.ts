@@ -199,6 +199,13 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
+"guia/Atualização BOE Mubs/instalar-iot-windows.md": {
+	id: "guia/Atualização BOE Mubs/instalar-iot-windows.md";
+  slug: "guia/atualização-boe-mubs/instalar-iot-windows";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
 "guia/Atualização BOE Mubs/instalar-linux.md": {
 	id: "guia/Atualização BOE Mubs/instalar-linux.md";
   slug: "guia/atualização-boe-mubs/instalar-linux";
