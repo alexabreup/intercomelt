@@ -23,6 +23,8 @@ sidebar:
 ![](https://i.imgur.com/GgkHMsB.png)
 ### 4 – Incluir o arquivo <b>IOTdeploy.exe</b> na pasta projetos
 
+### 4.1 - <i>Baixe o arquivo <b>IOTdeploy.exe</b> aqui</i> >>> <button type="button"><a href="https://drive.google.com/file/d/1DRaMCSrfkK_JHytQ5JjjnmCwuTz1ZPNC/view?usp=drive_link" target="_blank"><b>Clique aqui para baixar o programa>></b></a></button> 
+
 ![](https://i.imgur.com/nggHGBy.png)
 ### 5 – Clicar com o botão direito do mouse no arquivo <b>IOTdeploy.exe</b> e Executar como administrador
 
