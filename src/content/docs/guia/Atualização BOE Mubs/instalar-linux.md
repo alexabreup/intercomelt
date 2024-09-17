@@ -42,7 +42,7 @@ Insira o pendrive com o arquivo do programa.
 
 #### Baixe o arquivo para instalação no Linux MX 21
 
-Faça o download do arquivo <i><b>install.sh</b></i> para a instalação no NUC com o sistema operacional MX Linux 21 [Baixe Aqui](https://drive.google.com/file/d/1Bj-QVuycW9sk-5rlc8AcdWb5NvjiIBcc/view?usp=drive_link).
+Faça o download do arquivo <i><b>install.sh</b></i> para a instalação no NUC com o sistema operacional MX Linux 21 [Baixe Aqui](https://drive.google.com/file/d/1JMAHLWhjyZl6qN2bjdKJ2UveWC_EG49T/view?usp=drive_link).
 
 
 
