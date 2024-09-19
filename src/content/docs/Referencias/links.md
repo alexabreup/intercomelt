@@ -15,8 +15,9 @@ Lista de links úteis para a realização do treinamento e repositórios com os 
 
 ## Firmwares & Drivers
 
-### AD V-51
-- Driver da placa AD versão 51 [Baixe Aqui](https://drive.google.com/file/d/1pSgIIf07O19inZ3hRe8uSjHr-RWk9whD/view?usp=drive_link).
+### AD V-50
+##### Última atualização 19/09/2024
+- Driver da placa AD versão 50 [Baixe Aqui](https://drive.google.com/file/d/1cZYpq-61yJPjT2ApQvmtLQkPjhg0MJh3/view?usp=sharing).
 
 ### Fan V-1.20
 - Binário da placa contoladora dos Fans versão 1.20 [Baixe Aqui](https://drive.google.com/file/d/16UKcpfm5HLF-38s1IjK8fxzpA7fASouC/view?usp=drive_link).
