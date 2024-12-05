@@ -67,7 +67,7 @@ sidebar:
 
 ---
 
-## Notas Importantes
+### Notas Importantes
 - **Conexões**: Sempre verifique as conexões físicas antes de iniciar os processos.  
 - **Erros de Firmware**: Caso a instalação falhe, repita o processo desde a etapa inicial.  
 - **Backup**: Certifique-se de ter backups das configurações originais antes de qualquer alteração.
