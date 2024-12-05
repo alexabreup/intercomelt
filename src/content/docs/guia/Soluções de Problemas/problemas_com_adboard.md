@@ -30,13 +30,21 @@ sidebar:
 ### 3. Limpe o firmware atual:
 - Clique no botão **Erase** para apagar o firmware instalado.
 
+![Limpe o firmware atual](https://i.imgur.com/kAHaSGb.png)
+
+
 ### 4. Desconecte o cabo da ventoinha:
 - Após limpar o firmware, desconecte o cabo de comunicação da Fan com a ADBoard.
 
 ### 5. Atualize para a versão v.49:
 - Selecione a versão **v.49** no RTD Tool.
+![Atualize a versão 49](https://i.imgur.com/oCa5ctT.png)
 - Clique em **Flash** e aguarde (~1 minuto e 30 segundos) até o processo ser concluído.
 - Verifique se o texto **"O.K."** aparece, indicando sucesso.
+
+
+
+![Texto O.K. aponta o sucesso na atualização](https://i.imgur.com/bmYdk1A.png)
 
 ### 6. Reconecte o cabo da ventoinha:
 - Reinstale o cabo de comunicação da Fan.
@@ -45,6 +53,7 @@ sidebar:
 - Abra o programa **TCP Server**.
 - Conecte-se à placa RMC e confirme que a ADBoard está configurada com a versão **v.49**.
 
+![Teste a configuração no TCP server](https://i.imgur.com/NnyzGZy.png)
 ---
 
 ## Etapa 2: Atualização para a Versão v.51
@@ -64,6 +73,8 @@ sidebar:
 
 ### 5. Verifique a configuração:
 - Utilize o programa **TCP Server** para confirmar que a versão **v.51** foi instalada corretamente.
+
+![Verificação no TCP Server da versão v.51 da ADBoard](https://i.imgur.com/5hzjsIs.png)
 
 ---
 
