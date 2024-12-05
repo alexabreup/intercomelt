@@ -1,9 +1,9 @@
 ---
 title: Links
-description: Lista de links para utilização do programa Interface de Comandos Eletromidia
+description: description: Lista de links para downloads de arquivos
 ---
 
-Lista de links úteis para a realização do treinamento e repositórios com os arquivos dos programas, drivers e códigos.
+Lista de links úteis para a realização do treinamento e repositórios com os arquivos dos programas, firmwares, drivers e códigos.
 
 ## Programas
 
