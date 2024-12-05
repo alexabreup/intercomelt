@@ -15,12 +15,10 @@ Lista de links úteis para a realização do treinamento e repositórios com os 
 
 ## Firmwares & Drivers
 
-### AD V-50
-##### Última atualização 19/09/2024
-- Driver da placa AD versão 50 [Baixe Aqui](https://drive.google.com/file/d/1cZYpq-61yJPjT2ApQvmtLQkPjhg0MJh3/view?usp=sharing).
+### AD V-51
+##### Última atualização 05/12/2024
 
-### Fan V-1.20
-- Binário da placa contoladora dos Fans versão 1.20 [Baixe Aqui](https://drive.google.com/file/d/16UKcpfm5HLF-38s1IjK8fxzpA7fASouC/view?usp=drive_link).
+- Firmware da ADBoard versão 51 [Baixe Aqui](https://drive.google.com/file/d/1eSxGoeTP6EOSENKlZk9gFisyY16V6Ii2/view?usp=drive_link).
 
 ### RMC V-1.30
 - Arquivo do firmware RMC V-1.30 [Baixe Aqui](https://drive.google.com/file/d/1tTrHzgc8wtR9EaQq5sWgqR5szZc0vjH2/view?usp=drive_link).
