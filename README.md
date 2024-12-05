@@ -39,5 +39,5 @@ Todos os comandos que são necessários para operar o programa:
 
 ## ⚡ Sobre nós 🤖
 
-Produzido pelo Departamento de Projetos / Hardware, jun. 2024
+Produzido por Alexandre de Abreu Pereira para o Departamento de Projetos / Hardware, jun. 2024
  
