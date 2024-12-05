@@ -248,9 +248,9 @@ declare module 'astro:content' {
   collection: "docs";
   data: any
 } & { render(): Render[".md"] };
-"guia/Solução de Problemas/problemas_com_adboard.md": {
-	id: "guia/Solução de Problemas/problemas_com_adboard.md";
-  slug: "guia/solução-de-problemas/problemas_com_adboard";
+"guia/Soluções de Problemas/problemas_com_adboard.md": {
+	id: "guia/Soluções de Problemas/problemas_com_adboard.md";
+  slug: "guia/soluções-de-problemas/problemas_com_adboard";
   body: string;
   collection: "docs";
   data: any
