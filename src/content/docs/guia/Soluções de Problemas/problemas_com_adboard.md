@@ -1,20 +1,19 @@
 ---
 title: Problemas com a atualização da placa ADBoard
-description: Processo de downgrade e atualização da placa ADBoard
+description: Como apagar o firmware com problema e realizar a atualização da placa ADBoard
 
 sidebar:
     order: 1
 
 ---
 
-### Processo para limpar o firmware da versão e realizar o processo de instalação da versão antiga (Downgrade), para depois realizar a atualização do firmware na placa ADBoard
+### Como apagar o firmware com problema e realizar a atualização da placa ADBoard
 
 ## Introdução
 - **Praças**: Salvador e Recife.  
-- **Observação**: As placas nessas praças operam com a versão **v.49** do firmware para suportar luminosidade de 3500 nits.
 
 ### Versões do Firmware:
-- **v.49**: Suporta luminosidade de até 3500 nits.  
+- **v.49**: Versão de teste.  
 - **v.51**: Suporta luminosidade de até 3000 nits.
 
 ---
