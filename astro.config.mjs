@@ -23,7 +23,7 @@ export default defineConfig({
         src: './src/assets/my-logo.svg',
       },
 			social: {
-				github: 'https://github.com/',
+				github: 'https://github.com/alexabreup/intercomelt',
 			},
 			title: 'Departamento de Projetos',
 			locales: {
