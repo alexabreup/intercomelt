@@ -10,6 +10,7 @@ sidebar:
 ### Como apagar o firmware com problema e realizar a atualização da placa ADBoard
 
 ## Introdução
+- **Processo**: Apagar o firmware existente na placa ADBoard, instalar a versão v.49 do firmware e na sequência atualizar para a versão v.51.
 - **Praças**: Salvador e Recife.  
 
 ### Versões do Firmware:
