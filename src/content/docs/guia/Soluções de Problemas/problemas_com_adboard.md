@@ -10,8 +10,7 @@ sidebar:
 ### Como apagar o firmware com problema e realizar a atualização da placa ADBoard
 
 ## Introdução
-- **Processo**: Apagar o firmware existente na placa ADBoard, instalar a versão v.49 do firmware e na sequência atualizar para a versão v.51.
-- **Praças**: Salvador e Recife.  
+- **Processo**: Apagar o firmware existente na placa ADBoard, instalar a versão v.49 do firmware e na sequência atualizar para a versão v.51. 
 
 ### Versões do Firmware:
 - **v.49**: Versão de teste.  
@@ -33,8 +32,8 @@ sidebar:
 ![Limpe o firmware atual](https://i.imgur.com/kAHaSGb.png)
 
 
-### 4. Desconecte o cabo da ventoinha:
-- Após limpar o firmware, desconecte o cabo de comunicação da Fan com a ADBoard.
+### 4. Desconecte o cabo da placa Fan:
+- Após limpar o firmware, desconecte o cabo de comunicação da Fan com a RMC.
 
 ### 5. Atualize para a versão v.49:
 - Selecione a versão **v.49** no RTD Tool.
