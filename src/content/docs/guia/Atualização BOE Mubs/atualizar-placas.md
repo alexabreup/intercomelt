@@ -8,6 +8,9 @@ sidebar:
 
 ---
 
+import { Link } from "@astrojs/starlight/components";
+
+
 [comment]: <> (Documentação online para o aplicativo Interface de Comando Eletromidia)
 [comment]: <> (Criado por Alexandre de Abreu - alexandre.abreu@eletromidia.com.br)
 [comment]: <> (Data : 17/06/2024)
@@ -72,9 +75,10 @@ Para MUB Face Dupla é necessário atualizar as duas placas AD Boards
 | 1 | Cabo USB A 2.0 para USB B | | 
 | 2 | Programador ISP-USB da placa driver para atualização do firmware da AD Board | 
 | 3 | Notebook com a pasta contendo os executáveis do firmwares, driver e arquivo bin 
-| 4 | Pen drive contendo o arquivo JSON (zgs126_eth_para.json) | [Baixe Aqui](https://drive.google.com/drive/folders/1CMxiCqTR2AgFmQ1LFTlh1TRl-Qow18X0?usp=drive_link) | 
-| 5 | Pen drive contendo o arquivo bin (ZGS126_Upgrade.bin)| [Baixe Aqui](https://drive.google.com/drive/folders/1aSIM5SkNw2XFQyDY34FqCN9aPBG8erE3?usp=drive_link) |
-| 6 | Pen drive contendo o arquivo (fan_ctrl_DS_v1.2.0.20230210.bin)| [Baixe Aqui](https://drive.google.com/drive/folders/1_jb5Utj2UUmLkMQDTghFNHKMNO-X_XDh?usp=drive_link) |
+| 4 | Pen drive contendo o arquivo JSON (zgs126_eth_para.json) | [Baixe Aqui](/referencias/links/) | 
+| 5 | Pen drive contendo o arquivo bin (ZGS126_Upgrade.bin) | [Baixe Aqui](/referencias/links/) | 
+| 6 | Pen drive contendo o arquivo (fan_ctrl_DS_v1.2.0.20230210.bin) | [Baixe Aqui](/referencias/links/) | 
+
 
 
 
