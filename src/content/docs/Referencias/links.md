@@ -18,15 +18,15 @@ Lista de links úteis para a realização do treinamento e repositórios com os 
 ### AD V-51
 ##### Última atualização 05/12/2024
 
-- Firmware da ADBoard versão 51 - 3000 nits [Baixe Aqui](https://github.com/alexabreup/boe-elt/blob/main/AD_ZG435_v50_v51/RL6449_Project.bin).
+- Firmware da ADBoard versão 51 - 3000 nits [Baixe Aqui](https://raw.githubusercontent.com/alexabreup/boe-elt/main/AD_ZG435_v50_v51/RL6449_Project.bin).
 
 ### RMC V-1.30
-- Arquivo do firmware RMC V-1.30 [Baixe Aqui](https://github.com/alexabreup/boe-elt/blob/main/RMC_ZGS126_v130/ZGS126_Upgrade.bin).
+- Arquivo do firmware RMC V-1.30 [Baixe Aqui](https://raw.githubusercontent.com/alexabreup/boe-elt/main/RMC_ZGS126_v130/ZGS126_Upgrade.bin).
 
 ## JSON
 
 ### ZGS126 Ethernet 
-- Arquivo JSON [Baixe Aqui](https://drive.google.com/file/d/17CuiAM5AaTIgh75srpR2j4Uxf9ir4ocM/view?usp=drive_link).
+- Arquivo JSON [Baixe Aqui](https://raw.githubusercontent.com/alexabreup/boe-elt/main/RMC_ZGS126_v130/zgs126_eth_para.json).
 
 ## Programas
 

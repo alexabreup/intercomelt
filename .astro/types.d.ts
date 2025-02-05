@@ -141,133 +141,133 @@ declare module 'astro:content' {
   slug: "404";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "Configurar a Interface de Comandos/botoes.md": {
 	id: "Configurar a Interface de Comandos/botoes.md";
   slug: "configurar-a-interface-de-comandos/botoes";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "Configurar a Interface de Comandos/campos.md": {
 	id: "Configurar a Interface de Comandos/campos.md";
   slug: "configurar-a-interface-de-comandos/campos";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "Configurar a Interface de Comandos/comandos-configurar.md": {
 	id: "Configurar a Interface de Comandos/comandos-configurar.md";
   slug: "configurar-a-interface-de-comandos/comandos-configurar";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "Configurar a Interface de Comandos/instalar-windows.md": {
 	id: "Configurar a Interface de Comandos/instalar-windows.md";
   slug: "configurar-a-interface-de-comandos/instalar-windows";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "Configurar a Interface de Comandos/opainel.md": {
 	id: "Configurar a Interface de Comandos/opainel.md";
   slug: "configurar-a-interface-de-comandos/opainel";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "Referencias/links.md": {
 	id: "Referencias/links.md";
   slug: "referencias/links";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "Referencias/sobrenos.md": {
 	id: "Referencias/sobrenos.md";
   slug: "referencias/sobrenos";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "guia/Atualização BOE Mubs/atualizar-placas.md": {
 	id: "guia/Atualização BOE Mubs/atualizar-placas.md";
   slug: "guia/atualização-boe-mubs/atualizar-placas";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "guia/Atualização BOE Mubs/instalar-iot-windows.md": {
 	id: "guia/Atualização BOE Mubs/instalar-iot-windows.md";
   slug: "guia/atualização-boe-mubs/instalar-iot-windows";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "guia/Atualização BOE Mubs/instalar-linux.md": {
 	id: "guia/Atualização BOE Mubs/instalar-linux.md";
   slug: "guia/atualização-boe-mubs/instalar-linux";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "guia/O RTD Customer Tool/como-usar-o-rtd-customer-tool.md": {
 	id: "guia/O RTD Customer Tool/como-usar-o-rtd-customer-tool.md";
   slug: "guia/o-rtd-customer-tool/como-usar-o-rtd-customer-tool";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "guia/O TCP Server Test/o-tcp-server.md": {
 	id: "guia/O TCP Server Test/o-tcp-server.md";
   slug: "guia/o-tcp-server-test/o-tcp-server";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "guia/Os Modems/configurar-acesso.md": {
 	id: "guia/Os Modems/configurar-acesso.md";
   slug: "guia/os-modems/configurar-acesso";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "guia/Os Modems/modem-claro.md": {
 	id: "guia/Os Modems/modem-claro.md";
   slug: "guia/os-modems/modem-claro";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "guia/Os Modems/modem-vivo.md": {
 	id: "guia/Os Modems/modem-vivo.md";
   slug: "guia/os-modems/modem-vivo";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "guia/Soluções de Problemas/problemas_com_adboard.md": {
 	id: "guia/Soluções de Problemas/problemas_com_adboard.md";
   slug: "guia/soluções-de-problemas/problemas_com_adboard";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "guia/index.md": {
 	id: "guia/index.md";
   slug: "guia";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
 "index.mdx": {
 	id: "index.mdx";
   slug: "index";
   body: string;
   collection: "docs";
-  data: any
+  data: InferEntrySchema<"docs">
 } & { render(): Render[".mdx"] };
 };
 
@@ -279,5 +279,5 @@ declare module 'astro:content' {
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;
 
-	export type ContentConfig = never;
+	export type ContentConfig = typeof import("./../src/content/config.js");
 }
