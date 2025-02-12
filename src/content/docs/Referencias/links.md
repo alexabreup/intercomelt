@@ -15,26 +15,28 @@ Lista de links úteis para a realização do treinamento e repositórios com os 
 
 ## Firmwares & Drivers
 
+### AD V-49
+##### Versão necessária para o downgrade de manutenção de firmware da AD BOARD
+
+- Firmware da ADBoard versão 49 [Baixe Aqui](https://drive.google.com/file/d/1--fzx2ZpmPFnQWj8is7UbCprUnh9L4WR/view?usp=drive_link).
+
 ### AD V-51
 ##### Última atualização 05/12/2024
 
-- Firmware da ADBoard versão 51 - 3000 nits [Baixe Aqui](https://raw.githubusercontent.com/alexabreup/boe-elt/main/AD_ZG435_v50_v51/RL6449_Project.bin).
+- Firmware da ADBoard versão 51 - 3000 nits [Baixe Aqui](https://drive.google.com/file/d/1UjAp-WtupXA4186BgDI1ZmC3w-kT204K/view?usp=drive_link).
 
 ### RMC V-1.30
-- Arquivo do firmware RMC V-1.30 [Baixe Aqui](https://raw.githubusercontent.com/alexabreup/boe-elt/main/RMC_ZGS126_v130/ZGS126_Upgrade.bin).
+- Arquivo do firmware RMC V-1.30 [Baixe Aqui](https://drive.google.com/file/d/1FudakIEmvhbJ6RCJ7TkUttHXU9Q5PMLR/view?usp=drive_link).
 
 ## JSON
 
 ### ZGS126 Ethernet 
-- Arquivo JSON [Baixe Aqui](https://raw.githubusercontent.com/alexabreup/boe-elt/main/RMC_ZGS126_v130/zgs126_eth_para.json).
+- Arquivo JSON [Baixe Aqui](https://drive.google.com/file/d/1siUgfK8w0AYBe06ezdi1vDW1RpjTttMr/view?usp=drive_link).
 
 ## Programas
 
-### Software AD Board e Driver
-- Arquivos do Software AD Board e Driver [Baixe Aqui](https://drive.google.com/drive/folders/1BPQBd0VUpNbndtWq1wBrJSynjWqd4FkU?usp=drive_link).
-
-### RTD Customer Tool
-- Arquivos do RTD Customer Tool [Baixe Aqui](https://drive.google.com/drive/folders/1G731JCWcYKL3zHtpRGDOoBdZKHaQoDM2?usp=drive_link).
+### RTD Customer Tool - Programa para remoção e instalação de firmware
+- Arquivos do RTD Customer Tool [Baixe Aqui](https://drive.google.com/drive/folders/1IR7kVqJjBWB6mzeCQ0_ogsaBB2A_1S9L?usp=drive_link).
 
 
  
