@@ -8,8 +8,7 @@ sidebar:
 
 ---
 
-import { Link } from "@astrojs/starlight/components";
-
+ 
 
 [comment]: <> (Documentação online para o aplicativo Interface de Comando Eletromidia)
 [comment]: <> (Criado por Alexandre de Abreu - alexandre.abreu@eletromidia.com.br)
