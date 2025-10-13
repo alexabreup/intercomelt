@@ -49,7 +49,7 @@ _Placa RMC e gravador ST-Link V2 utilizados no processo de regravação_
 
 - Gravador ST-LINK V2 para STM8/STM32 MCU
 - Placa RMC
-- Computador com STM32CubeProgrammer instalado
+- Computador com [STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html) instalado
 - Pendrive USB vazio (formatado)
 - Cabos de conexão (jumpers)
 
