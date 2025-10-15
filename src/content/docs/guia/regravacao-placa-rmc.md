@@ -60,7 +60,7 @@ _Placa RMC e gravador ST-Link V2 utilizados no processo de regravação_
 - Firmware RMC V-1.30
 - Arquivo JSON ZGS126 Ethernet
 
-**[📁 Download dos Arquivos](https://drive.google.com/drive/folders/1n3baz3jsxwJ-zgcu--E_YeGhpjnHBwXb?usp=drive_link){target="\_blank"}**
+**[📁 Download dos Arquivos](https://drive.google.com/drive/folders/1n3baz3jsxwJ-zgcu--E_YeGhpjnHBwXb?usp=drive_link)**
 
 ## Procedimento de Gravação
 
