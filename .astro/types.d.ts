@@ -199,20 +199,6 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"guia/Atualização BOE Mubs/instalar-iot-windows.md": {
-	id: "guia/Atualização BOE Mubs/instalar-iot-windows.md";
-  slug: "guia/atualização-boe-mubs/instalar-iot-windows";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"guia/Atualização BOE Mubs/instalar-linux.md": {
-	id: "guia/Atualização BOE Mubs/instalar-linux.md";
-  slug: "guia/atualização-boe-mubs/instalar-linux";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
 "guia/O RTD Customer Tool/como-usar-o-rtd-customer-tool.md": {
 	id: "guia/O RTD Customer Tool/como-usar-o-rtd-customer-tool.md";
   slug: "guia/o-rtd-customer-tool/como-usar-o-rtd-customer-tool";
@@ -262,6 +248,13 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
+"guia/regravacao-placa-rmc.md": {
+	id: "guia/regravacao-placa-rmc.md";
+  slug: "guia/regravacao-placa-rmc";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
 "index.mdx": {
 	id: "index.mdx";
   slug: "index";
@@ -279,5 +272,5 @@ declare module 'astro:content' {
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;
 
-	export type ContentConfig = typeof import("./../src/content/config.js");
+	export type ContentConfig = typeof import("../src/content/config.js");
 }

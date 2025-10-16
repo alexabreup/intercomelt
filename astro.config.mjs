@@ -9,7 +9,7 @@ export default defineConfig({
 	adapter: netlify(),
 	edgeMiddleware: true,
 
-	//site: 'https://alexabreup.github.io',
+	site: 'https://alexabreup.github.io',
 	// base: 'intercomelt',
 
 	integrations: [
@@ -29,24 +29,20 @@ export default defineConfig({
 			locales: {
 			  root: {
 				label: 'Português do Brasil',
-				lang: 'pt-br',
+				lang: 'pt-BR',
 			  },
 			},
 			sidebar: [
 				
 				{
 					label: 'Guia',
-					label: 'Guia',
 					autogenerate: { directory: 'guia' },
 					badge: 'Treinamento',
-
 				},
 				{
 					label: 'Interface de Comandos',
-					label: 'Interface de Comandos',
 					autogenerate: { directory: 'Configurar a Interface de Comandos' },
 					badge: 'Aplicativo',
-
 				},
 				{
 					label: 'Referências',
