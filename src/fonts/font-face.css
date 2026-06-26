@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Montserrat';
+    /* Use a relative path to the local font file in `url()`. */
+    src: url('./Montserrat-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
