@@ -25,15 +25,24 @@ Lista de links úteis para a realização do treinamento e repositórios com os 
 
 - Firmware da ADBoard versão 51 - 3000 nits [Baixe Aqui](https://drive.google.com/file/d/1UjAp-WtupXA4186BgDI1ZmC3w-kT204K/view?usp=drive_link).
 
-### AD V-54
-- Arquivo da versão atualizada do firmware da AD BOARD [Baixe Aqui](https://drive.google.com/file/d/1GxEZ87r5KJw-kfBO_BctM-vtfR973Dqq/view?usp=sharing).
+ 
 
 ### RMC V-1.30
 - Arquivo do firmware RMC V-1.30 [Baixe Aqui](https://drive.google.com/file/d/1FudakIEmvhbJ6RCJ7TkUttHXU9Q5PMLR/view?usp=drive_link).
 
-### RMC V-1.34
-- Arquivo do firmware RMC V-1.34 [Baixe Aqui](https://drive.google.com/file/d/1fLd4GJ6ZYn1hquW67FKa0N5IfmxYhelk/view?usp=sharing).
+## Versões mais recentes para AD Board e RMC 
 
+:::note[AD V-54]
+- **Arquivo da versão atualizada do firmware da AD BOARD** — [Baixe Aqui](https://drive.google.com/file/d/1GxEZ87r5KJw-kfBO_BctM-vtfR973Dqq/view?usp=sharing).
+:::
+
+:::note[RMC V-1.34]
+- **Arquivo do firmware RMC V-1.34** — [Baixe Aqui](https://drive.google.com/file/d/1fLd4GJ6ZYn1hquW67FKa0N5IfmxYhelk/view?usp=sharing).
+
+
+**Obs:** Caso haja algum equipamento com a versão abaixo da v1.30, deverão ser atualizados para estas duas versões mais recentes. Consulte nossa equipe ou o seu gestor para poder instalar.
+:::
+ 
 ## JSON
 
 ### ZGS126 Ethernet 
